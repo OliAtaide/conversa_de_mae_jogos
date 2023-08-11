@@ -1,0 +1,73 @@
+body {
+  display: flex;
+  background-color: #f7f9fc;
+}
+
+.sidebar {
+  height: 100vh;
+  max-width: 240px;
+  padding: 1.5em;
+  position: sticky;
+  z-index: 99;
+  top: 0;
+}
+.sidebar .btn-collapse::after {
+  font-family: "bootstrap-icons";
+  content: "\f284";
+}
+.sidebar .btn-collapse.collapsed::after {
+  content: "\f285";
+}
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+.sidebar ul h6 {
+  color: #5c6471;
+  font-size: 14px;
+  font-weight: 700;
+}
+.sidebar .btn-collapse {
+  color: white;
+  background-color: #E74C3C;
+}
+.sidebar .btn-collapse:hover {
+  color: white;
+  background-color: #555;
+}
+
+.game {
+  width: 100%;
+  background-color: white;
+  min-height: 100vh;
+}
+.game .title {
+  color: #E6352B;
+  font-weight: 600;
+  background-color: #f7f9fc;
+}
+.game .game-container {
+  border-radius: 16px 0 0 0;
+}
+.game .game-container .game-body .game-card {
+  overflow-y: auto;
+  /* Track */
+  /* Handle */
+  /* Handle on hover */
+}
+.game .game-container .game-body .game-card::-webkit-scrollbar {
+  width: 1em;
+}
+.game .game-container .game-body .game-card::-webkit-scrollbar-track {
+  background: transparent;
+}
+.game .game-container .game-body .game-card::-webkit-scrollbar-thumb {
+  background: #035c8c;
+  border: 5px solid white;
+  border-radius: 9999px;
+}
+.game .game-container .game-body .game-card::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/*# sourceMappingURL=base.css.map */
