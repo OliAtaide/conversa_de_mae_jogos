@@ -38,18 +38,23 @@ function imprimirQuestoes(index) {
                     <div class="card-body px-0">
                         <h6 class="card-title px-4">
                             `
-                    +
-                    q.titulo
-                    +
-                    `
+                            +
+                            q.titulo
+                            +
+                            `
                         </h6>
+                            `
+                            +
+                                (q.imagem ? '<img class="mx-5" src="' + q.imagem + '">' : '')
+                            +
+                            `
                         <div class="card-text">
-                        `
-                    +
-                    opcoes
-                    +
+                            `
+                            +
+                            opcoes
+                            +
 
-                    `
+                            `
                         </div>
                         <h6 class="px-4 text-right" style="display: none;">
                             Correto!

@@ -331,6 +331,126 @@
                 ],
                 "resposta": 0
             }
+        ],
+        [
+            {
+                "titulo": "Qual palavra abaixo corresponde a essa imagem?",
+                "imagem": "../imgs/image_7.png",
+                "opcoes": [
+                    "Pré-natal",
+                    "Preventivo",
+                    "Trabalho de parto"
+                ],
+                "resposta": 0
+            },
+            {
+                "titulo": "Qual palavra abaixo corresponde a essa imagem?",
+                "imagem": "../imgs/image_8.png",
+                "opcoes": [
+                    "Teste rápido",
+                    "Vacinação",
+                    "Coleta de sangue"
+                ],
+                "resposta": 1
+            },
+            {
+                "titulo": "Qual palavra abaixo corresponde a essa imagem?",
+                "imagem": "../imgs/image_9.png",
+                "opcoes": [
+                    "Alimento rico em vitamina D",
+                    "Alimento rico em vitamina C",
+                    "Alimento rico em Ferro"
+                ],
+                "resposta": 2
+            },
+            {
+                "titulo": "Qual palavra abaixo corresponde a essa imagem?",
+                "imagem": "../imgs/image_10.png",
+                "opcoes": [
+                    "Raio X",
+                    "Ultrassom",
+                    "Ressonância"
+                ],
+                "resposta": 1
+            },
+            {
+                "titulo": "Qual palavra abaixo corresponde a essa imagem?",
+                "imagem": "../imgs/image_11.png",
+                "opcoes": [
+                    "Anticoncepcional",
+                    "Dispositivo Intra- Uterino (DIU)",
+                    "Preservativo"
+                ],
+                "resposta": 2
+            },
+            {
+                "titulo": "Qual palavra abaixo corresponde a essa imagem?",
+                "imagem": "../imgs/image_12.png",
+                "opcoes": [
+                    "Teste rápido",
+                    "Pré-natal",
+                    "Vacinação"
+                ],
+                "resposta": 0
+            }
+        ],
+        [
+            {
+                "titulo": "Os testes rápidos de HIV e Sífilis são exames de triagem realizado durante o pré-natal e na maternidade, no momento da admissão para o parto. Consiste em uma furadinha leve no dedo, para a coleta de uma gotinha de sangue e dentro de cerca de no máximo 30 minutos já adianta para o profissional e para a gestante a possibilidade dela ser ou não portadora de HIV ou sífilis.",
+                "opcoes": [
+                    "Verdadeiro",
+                    "Falso"
+                ],
+                "resposta": 0
+            },
+            {
+                "titulo": "A vitamina C é um nutriente que evita anemia na gravidez e está presente em alimentos como: carnes vermelhas,  aves e peixes, verduras escuras, leguminosas (como lentilha, grão-de-bico, ervilha e feijões).",
+                "opcoes": [
+                    "Verdadeiro",
+                    "Falso"
+                ],
+                "resposta": 1
+            },
+            {
+                "titulo": "A sífilis é uma Infecção Sexualmente Transmissível causada por uma bactéria chamada Treponema pallidum e caracterizada inicialmente por feridas que não doem, não coçam e não ardem, localizadas no pênis, vagina, ânus, ou na pele, língua ou lábio.",
+                "opcoes": [
+                    "Verdadeiro",
+                    "Falso"
+                ],
+                "resposta": 0
+            },
+            {
+                "titulo": "O tampão mucoso é um corrimento eliminado pela gestante nos dias que antecedem o parto, anunciando trabalho de parto.",
+                "opcoes": [
+                    "Verdadeiro",
+                    "Falso"
+                ],
+                "resposta": 0
+            },
+            {
+                "titulo": "Qual das alternativas abaixo  é incorreta em relação às recomendações da boa pega do recém-nascido ao seio materno?",
+                "opcoes": [
+                    "Verdadeiro",
+                    "Falso"
+                ],
+                "resposta": 0
+            },
+            {
+                "titulo": "As contrações ocorrem durante o trabalho de parto, inicialmente a cada 5 minutos e se tornam menos fortes e regulares.",
+                "opcoes": [
+                    "Verdadeiro",
+                    "Falso"
+                ],
+                "resposta": 1
+            },
+            {
+                "titulo": "Amamentação é o ato de nutrir o bebê com seu próprio leite e também uma forma de se construir vínculo entre você e seu filho através do contato com sua pele, seu cheiro e seu aconchego.",
+                "opcoes": [
+                    "Verdadeiro",
+                    "Falso"
+                ],
+                "resposta": 0
+            }
         ]
     ],
     "titulos": [
@@ -339,6 +459,8 @@
         "Teste seus Conhecimentos - Bem-Estar",
         "Teste seus Conhecimentos - Exames do Pré-Natal",
         "Teste seus Conhecimentos - Participação do parceiro no Pré-Natal",
-        "Teste seus Conhecimentos - Amamentação e Parto"
+        "Teste seus Conhecimentos - Amamentação e Parto",
+        "Teste seus Conhecimentos - Jogo Imagem Palavra",
+        "Teste seus Conhecimentos - Verdadeiro ou Falso"
     ]
 }
