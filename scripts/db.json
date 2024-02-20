@@ -1,466 +1,412 @@
 {
-    "questoes": [
-        [
-            {
-                "titulo": "Durante a gravidez ficamos mais emotivas, mas também irritadas com mais facilidade. Isso é causado:",
-                "opcoes": [
-                    "Devido a sintomas da Tensão Pré-Menstrual (TPM);",
-                    "Pela variação hormonal no corpo da mulher no primeiro trimestre;",
-                    "Devido ao aumento do apetite."
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Os sintomas de náuseas e vômitos, comuns no início da gestação, são provocados pelo aumento na corrente sanguínea do hormônio:",
-                "opcoes": [
-                    "Insulina",
-                    "Melatonina",
-                    "Gonadotrofina Coriônica"
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "A mulher no início da gravidez sente mais vontade de urinar devido:",
-                "opcoes": [
-                    "Ao aumento da quantidade de líquido no corpo da mulher e aumento do trabalho dos rins;",
-                    "Ao aumento da quantidade de líquido no corpo da mulher e aumento do trabalho dos rins;",
-                    "Ao crescimento do bebê, que distende o útero e esse por sua vez comprime a bexiga."
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "Qual sintoma abaixo ocorre no início da gestação na gestante e é resultante do esforço extra que o corpo que o corpo da mulher faz para a formação e desenvolvimento do embrião no seu ventre?",
-                "opcoes": [
-                    "Aumento da sensibilidade das mamas",
-                    "Sono excessivo, sensação de cansaço, indisposição",
-                    "Cólicas"
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "O que é a assistência Pré-Natal?",
-                "opcoes": [
-                    "O período que antecede a gravidez da mulher;",
-                    "Acompanhamento médico feito ao longo da gravidez, para monitorar a saúde do bebê e da gestante, para garantir uma gestação saudável;",
-                    "Acompanhamento médico feito pela mulher antes de engravidar."
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Com que frequência devem ser realizadas as consultas de Pré-Natal?",
-                "opcoes": [
-                    "As consultas de pré-natal devem ser realizadas 1 vez a cada 4 semanas; a partir das 36 semanas, a cada 2 semanas e a partir das 38 semanas, 1 vez por semana;",
-                    "As consultas de pré-natal devem ser realizadas 1 vez a cada 3 meses;",
-                    "As consultas de pré-natal devem ser realizadas 1 vez a cada  2 meses; a partir das 36 semanas, a cada 2 semanas e a partir das 38 semanas, 1 vez por semana;"
-                ],
-                "resposta": 0
-            }
+  "questoes": [
+    [
+      {
+        "titulo": "Durante a gravidez ficamos mais emotivas, mas também irritadas com mais facilidade. Isso é causado:",
+        "opcoes": [
+          "Devido a sintomas da Tensão Pré-Menstrual (TPM);",
+          "Pela variação hormonal no corpo da mulher no primeiro trimestre;",
+          "Devido ao aumento do apetite."
         ],
-        [
-            {
-                "titulo": "O que são Infecções Sexualmente Transmissíveis (ISTs)?",
-                "opcoes": [
-                    "Infecções causadas pela água contaminada;",
-                    "Infecções transmitidas por meio da relação sexual desprotegida com uma pessoa infectada sem o uso da camisinha masculina ou feminina;",
-                    "Infecções transmitidas pela fala, tosse ou espirro."
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "As ISTs são classificadas em 3 grupos. Marque a alternativa que contém a classificação correta de ISTs:",
-                "opcoes": [
-                    "Primária, secundária e terciária;",
-                    "Precoce e Tardia;",
-                    "As causadoras de feridas em região anal e genital, as que provocam corrimento vaginal e as que causam lesões do tipo verrugas na região genital."
-                ],
-                "resposta": 2
-            },
-            {
-                "titulo": "O uso de preservativo é crucial para evitar ISTs. Marque a alternativa que apresenta uma recomendação incorreta para o uso dos preservativos:",
-                "opcoes": [
-                    "A camisinha pode ser reutilizada;",
-                    "Não utilize preservativos rasgados ou furados;",
-                    "Guarde o preservativo em local seco e fresco."
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "Qual das alternativas abaixo são exemplos de IST?",
-                "opcoes": [
-                    "Gonorreia, Sífilis, HIV;",
-                    "Tétano, Sarampo e Rubéola;",
-                    "Pneumonia, Tuberculose e Bronquite."
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "Como a sífilis é transmitida e qual o nome da bactéria causadora dessa infecção?",
-                "opcoes": [
-                    "A sífilis é causada por uma bactéria chamada Trichomonas Vaginalis e é transmitida através da relação sexual desprotegida (sem o uso de preservativo);",
-                    "A sífilis é causada por uma bactéria chamada Treponema Pallidum e é transmitida através da relação sexual desprotegida (sem o uso de preservativo) com uma pessoa infectada ou da gestante infectada para o feto através da placenta ou, ocasionalmente, por contato direto com a lesão no momento do parto;",
-                    "A sífilis é causada por uma bactéria chamada Treponema Pallidum e é transmitida através das vias aéreas de uma pessoa contaminada para outra sadia, através da fala, tosse ou espirro."
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Quais os sinais e sintomas da sífilis em seu estágio inicial, conhecido como estágio primário da doença e que pode ocorrer entre 10 a 90 dias após o contágio?",
-                "opcoes": [
-                    "Manchas vermelhas pelo corpo, palma das mãos e planta dos pés, pode surgir febre, dor de cabeça, mal-estar e falta de apetite;",
-                    "Comprometimento cerebral, sistema cardiovascular, lesões na pele e ossos;",
-                    "Feridas que não doem, não coçam e nem ardem, localizadas no pênis, vagina, ânus ou na pele, língua ou lábios."
-                ],
-                "resposta": 2
-            }
+        "resposta": 1
+      },
+      {
+        "titulo": "Os sintomas de náuseas e vômitos, comuns no início da gestação, são provocados pelo aumento na corrente sanguínea do hormônio:",
+        "opcoes": ["Insulina", "Melatonina", "Gonadotrofina Coriônica"],
+        "resposta": 0
+      },
+      {
+        "titulo": "A mulher no início da gravidez sente mais vontade de urinar devido:",
+        "opcoes": [
+          "Ao aumento da quantidade de líquido no corpo da mulher e aumento do trabalho dos rins;",
+          "Ao aumento da quantidade de líquido no corpo da mulher e aumento do trabalho dos rins;",
+          "Ao crescimento do bebê, que distende o útero e esse por sua vez comprime a bexiga."
         ],
-        [
-            {
-                "titulo": "Qual a vitamina abaixo devemos tomar pelo menos 400 mcg por dia todos os dias, até as 12 primeiras semanas de gravidez, para ajudar a prevenir malformações na medula espinhal do bebê?",
-                "opcoes": [
-                    "Ácido Fólico;",
-                    "Vitamina C;",
-                    "Ferro."
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "A anemia, falta de ferro no sangue é muito comum na gravidez e por esse motivo a gestantes deve consumir alimentos mais ricos em ferro. Marque a alternativa que contém exemplos de alimentos ricos em ferro:",
-                "opcoes": [
-                    "Grãos, frutas, especialmente mamão, ameixa e verduras;",
-                    "Carnes vermelhas, as aves e os peixes, verduras escuras, leguminosas (como lentilha, grão-de-bico, ervilha e feijões);",
-                    "Frutas cítricas como: laranja, limão, morango, acerola."
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Qual das alternativas abaixo contém as vacinas que a gestante deve tomar durante a gestação?",
-                "opcoes": [
-                    "Tétano, gripe (Influenza), Hepatite B, Tríplice viral;",
-                    "Tétano, gripe (Influenza), Hepatite B e DTPa;",
-                    "Tétano, Febre amarela, Hepatite B e DTPa"
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Qual intervalo de tempo para o reforço da vacina contra o Tétano?",
-                "opcoes": [
-                    "Os reforços são aplicados a cada dez anos após a última dose, mas em caso de gravidez ou ferimentos graves deve-se antecipar a dose de reforço para 5 anos após a última dose administrada.",
-                    "Os reforços são aplicados a cada 5 anos após a última dose, mas em caso de gravidez ou ferimentos graves deve-se antecipar a dose de reforço para 3 anos após a última dose administrada.",
-                    "Os reforços são aplicados a cada dez anos após a última dose, mas em caso de gravidez ou ferimentos graves deve-se antecipar a dose de reforço para 3 anos após a última dose administrada."
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "Qual das alternativas abaixo apresentam atividades físicas seguras durante a gravidez?",
-                "opcoes": [
-                    "Caminhada, Hidroginástica, Ioga;",
-                    "Hidroginástica, natação, Musculação pesada;",
-                    "Hidroginástica, Pilates, agachamento."
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "Qual opção à seguir não representa um dos benefícios da atividade física durante a gestação?",
-                "opcoes": [
-                    "Diminui os enjôos e ocorrência de náuseas e vômitos;",
-                    "Diminui desconfortos físicos, ajuda a manter a autoestima, melhora o sono;",
-                    "Promove tônus muscular, força e resistência;"
-                ]
-            }
+        "resposta": 0
+      },
+      {
+        "titulo": "Qual sintoma abaixo ocorre no início da gestação na gestante e é resultante do esforço extra que o corpo que o corpo da mulher faz para a formação e desenvolvimento do embrião no seu ventre?",
+        "opcoes": [
+          "Aumento da sensibilidade das mamas",
+          "Sono excessivo, sensação de cansaço, indisposição",
+          "Cólicas"
         ],
-        [
-            {
-                "titulo": "Durante o Pré-Natal são solicitados exames de sorologia para determinadas doenças que quando ocorrem na gestação podem afetar seriamente o bebê. Para que serve esse tipo de exame?",
-                "opcoes": [
-                    "Essas sorologias servem para detectar microorganismos (bactérias, vírus, fungos) no sangue da gestante para saber se ela está com determinado tipo de doença;",
-                    "Essas sorologias servem para detectar anticorpos no sangue da gestante para saber se ela está com a doença atualmente ou se já tem imunidade contra essas doenças que geram risco materno e fetal;",
-                    "Essas sorologias servem para detectar Diabetes gestacional e Hipertensão na gravidez."
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Já no momento da primeira consulta do Pré-natal, no posto de saúde são feitos os testes rápidos de HIV e Sífilis. Em relação aos testes rápidos, marque a alternativa correta:",
-                "opcoes": [
-                    "Os testes de triagem possibilitam o diagnóstico precoce e contribui para que o tratamento seja iniciado de forma imediata em caso de teste reagente, tanto na gestante quanto em sua parceria sexual;",
-                    "Os testes rápidos de HIV e Sífilis devem ser realizados em todas as consultas de pré-natal;",
-                    "Se o resultado do teste rápido na gestante der reagente o parceiro sexual dela não precisa ser testado."
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "Na infecção por sífilis, o resultado da transmissão da bactéria causadora dessa infecção a corrente sanguínea da gestante infectada para o feto através da placenta ou, ocasionalmente, por contato direto com a lesão no momento do parto (transmissão vertical) é chamada de:",
-                "opcoes": [
-                    "Transmissão Adquirida;",
-                    "Transmissão Horizontal;",
-                    "Transmissão Vertical."
-                ],
-                "resposta": 2
-            },
-            {
-                "titulo": "Pequenos pontos elevados e inicialmente vermelhos ou rosados, febre, fígado aumentado de tamanho, pele amarelada, alterações ósseas que podem estar associadas a fraturas e intensa dor, são características de que fase da infecção por sífilis congênita na criança?",
-                "opcoes": [
-                    "Sífilis Congênita precoce;",
-                    "Sífilis Congênita tardia;",
-                    "Sífilis latente."
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "Protuberância na região frontal (“fronte olímpica”), nariz em sela, maxilar curto (“face de buldogue”), mandíbula protuberante, deficiência visual, perda auditiva são sintomas de:",
-                "opcoes": [
-                    "Sífilis Congênita precoce;",
-                    "Sífilis Congênita tardia;",
-                    "Sífilis terciária."
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Exame realizado no pré-natal ao longo da gravidez, importante para acompanhamento da evolução da gestação, formação e desenvolvimento do feto, seus órgãos e sistemas, bem como verificar a quantidade de líquido amniótico, posição da placenta e condições de vitalidade do bebê:",
-                "opcoes": [
-                    "Ressonância Magnética;",
-                    "Ultrassonografia Obstétrica;",
-                    "Tomografia Computadorizada."
-                ],
-                "resposta": 1
-            }
+        "resposta": 1
+      },
+      {
+        "titulo": "O que é a assistência Pré-Natal?",
+        "opcoes": [
+          "O período que antecede a gravidez da mulher;",
+          "Acompanhamento médico feito ao longo da gravidez, para monitorar a saúde do bebê e da gestante, para garantir uma gestação saudável;",
+          "Acompanhamento médico feito pela mulher antes de engravidar."
         ],
-        [
-            {
-                "titulo": "Qual das alternativas abaixo é a correta em relação a participação do pai/parceiro durante todo o processo de pré-natal?",
-                "opcoes": [
-                    "A presença do pai/parceiro da gestante no pré-natal não contribui para o bem-estar físico, psicológico, social da mãe, do bebê e dele próprio;",
-                    "O pré-natal do Parceiro é uma oportunidade para o pai realizar exames de rotina e testes rápidos, vacinação, além de ser uma oportunidade para participarem das atividades educativas para uma paternidade consciente;",
-                    "Não é permitida a presença do pai/parceiro da gestante nas consultas de pré-natal."
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Qual a importância do parceiro da gestante fazer os exames de triagem para HIV e Sífilis realizados no pré-natal e, em caso de resultado positivo já iniciar o tratamento assim que possível?",
-                "opcoes": [
-                    "Interromper a evolução da infecção, evitando uma nova infecção na gestante e a possibilidade de transmissão dessa para o bebê.",
-                    "Apenas manter sua saúde em dia;",
-                    "Não há necessidade do parceiro da gestante realizar exames de triagem para HIV e Sífilis durante o pré-natal."
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "A sífilis tem cura? Se Sim, como o tratamento é realizado?",
-                "opcoes": [
-                    "A sífilis tem cura e o tratamento é realizado com injeção de benzetacil, de maneira que a dosagem do medicamento depende da fase da infecção;",
-                    "A sífilis tem cura e o tratamento da sífilis é realizado com benzetacil, antibiótico via oral (comprimido), o qual deve ser tomado 2 vezes ao dia durante 7 dias;",
-                    "Não existe tratamento para a sífilis."
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "Após o tratamento da sífilis, como é feito o acompanhamento da melhora e cura da paciente?",
-                "opcoes": [
-                    "Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum a cada 3 meses até o parto. Após o parto, o seguimento do tratamento continua trimestral até o 12º mês de acompanhamento;",
-                    "Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum mensalmente até o parto. Após o parto, o seguimento do tratamento é trimestral até o 12º mês de acompanhamento;",
-                    "Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum mensalmente até o parto. Após o parto não é necessário o seguimento do tratamento."
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Alguns pacientes podem apresentar testes persistentemente reagentes, em baixas dosagens de anticorpos, após o tratamento, é o que chamamos de:",
-                "opcoes": [
-                    "Memória sorológica;",
-                    "Cicatriz sorológica;",
-                    "Rastro sorológico."
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "O indivíduo pode adquirir sífilis sempre que se expor ao Treponema pallidum (bactéria causadora da sífilis). Essa afirmação é:",
-                "opcoes": [
-                    "Verdadeira;",
-                    "Falsa."
-                ],
-                "resposta": 0
-            }
+        "resposta": 1
+      },
+      {
+        "titulo": "Com que frequência devem ser realizadas as consultas de Pré-Natal?",
+        "opcoes": [
+          "As consultas de pré-natal devem ser realizadas 1 vez a cada 4 semanas; a partir das 36 semanas, a cada 2 semanas e a partir das 38 semanas, 1 vez por semana;",
+          "As consultas de pré-natal devem ser realizadas 1 vez a cada 3 meses;",
+          "As consultas de pré-natal devem ser realizadas 1 vez a cada  2 meses; a partir das 36 semanas, a cada 2 semanas e a partir das 38 semanas, 1 vez por semana;"
         ],
-        [
-            {
-                "titulo": "Qual das alternativas abaixo apresenta uma informação incorreta em relação aos benefícios da amamentação para o bebê?",
-                "opcoes": [
-                    "O leite materno tem a vantagem de ser um alimento completo, que contém todos os nutrientes de que o bebê precisa, além de anticorpos que combatem doenças, funcionando como uma vacina natural;",
-                    "A amamentação não contribui  para o desenvolvimento motor oral e da arcada dentária do bebê;",
-                    "A amamentação além de ser um ato de nutrir é também uma forma de se construir vínculo entre você e seu filho através do contato com sua pele, seu cheiro e seu aconchego."
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Por que o aleitamento materno é importante para a mulher?",
-                "opcoes": [
-                    "Dar o peito não ajuda a mãe emagrecer;",
-                    "Protege a mulher contra alguns tipos de câncer, como o de mama e o de ovário;",
-                    "A amamentação não protege a mulher contra a osteoporose."
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "De acordo com a organização Mundial da Saúde (OMS) e o Ministério da Saúde é recomendado:",
-                "opcoes": [
-                    "Amamentação exclusiva até os 6 meses de vida e a manutenção do leite materno na alimentação da criança até 2 anos de idade ou mais;",
-                    "Amamentação exclusiva até os 4 meses de vida e a manutenção do leite materno na alimentação da criança até 2 anos de idade ou mais;",
-                    "Amamentação exclusiva até os 3 meses de vida."
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "Qual das alternativas abaixo  é incorreta em relação às recomendações da boa pega do recém-nascido ao seio materno?",
-                "opcoes": [
-                    "Quando o bebê pega corretamente a mama fica com boca  bem aberta ( boca de peixinho), com os lábios virados para fora, bochechas arredondadas, queixo encostando no peito e nariz livre;",
-                    "Quando o bebê pega o peito direitinho, o bebê não emite ruído ao mamar e a mãe não sente dor;",
-                    "Os bicos artificiais como chupetas, mamadeira não atrapalham o processo de amamentação"
-                ],
-                "resposta": 2
-            },
-            {
-                "titulo": "Julgue a afirmação à seguir em verdadeiro ou falso: “ O trabalho de parto é caracterizado por contrações de um minuto, a cada cinco minutos; perda de líquido amniótico e eliminação do tampão mucoso.”",
-                "opcoes": [
-                    "Verdadeira;",
-                    "Falsa."
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "Julgue a afirmação à seguir em verdadeiro ou falso: “Mesmo tendo realizado testes rápidos para HIV e Sífilis durante o pré-natal,  a gestante deve realizar novamente os testes rápidos na maternidade”.",
-                "opcoes": [
-                    "Verdadeira;",
-                    "Falsa."
-                ],
-                "resposta": 0
-            }
-        ],
-        [
-            {
-                "titulo": "Qual palavra abaixo corresponde a essa imagem?",
-                "imagem": "../imgs/image_7.png",
-                "opcoes": [
-                    "Pré-natal",
-                    "Preventivo",
-                    "Trabalho de parto"
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "Qual palavra abaixo corresponde a essa imagem?",
-                "imagem": "../imgs/image_8.png",
-                "opcoes": [
-                    "Teste rápido",
-                    "Vacinação",
-                    "Coleta de sangue"
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Qual palavra abaixo corresponde a essa imagem?",
-                "imagem": "../imgs/image_9.png",
-                "opcoes": [
-                    "Alimento rico em vitamina D",
-                    "Alimento rico em vitamina C",
-                    "Alimento rico em Ferro"
-                ],
-                "resposta": 2
-            },
-            {
-                "titulo": "Qual palavra abaixo corresponde a essa imagem?",
-                "imagem": "../imgs/image_10.png",
-                "opcoes": [
-                    "Raio X",
-                    "Ultrassom",
-                    "Ressonância"
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Qual palavra abaixo corresponde a essa imagem?",
-                "imagem": "../imgs/image_11.png",
-                "opcoes": [
-                    "Anticoncepcional",
-                    "Dispositivo Intra- Uterino (DIU)",
-                    "Preservativo"
-                ],
-                "resposta": 2
-            },
-            {
-                "titulo": "Qual palavra abaixo corresponde a essa imagem?",
-                "imagem": "../imgs/image_12.png",
-                "opcoes": [
-                    "Teste rápido",
-                    "Pré-natal",
-                    "Vacinação"
-                ],
-                "resposta": 0
-            }
-        ],
-        [
-            {
-                "titulo": "Os testes rápidos de HIV e Sífilis são exames de triagem realizado durante o pré-natal e na maternidade, no momento da admissão para o parto. Consiste em uma furadinha leve no dedo, para a coleta de uma gotinha de sangue e dentro de cerca de no máximo 30 minutos já adianta para o profissional e para a gestante a possibilidade dela ser ou não portadora de HIV ou sífilis.",
-                "opcoes": [
-                    "Verdadeiro",
-                    "Falso"
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "A vitamina C é um nutriente que evita anemia na gravidez e está presente em alimentos como: carnes vermelhas,  aves e peixes, verduras escuras, leguminosas (como lentilha, grão-de-bico, ervilha e feijões).",
-                "opcoes": [
-                    "Verdadeiro",
-                    "Falso"
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "A sífilis é uma Infecção Sexualmente Transmissível causada por uma bactéria chamada Treponema pallidum e caracterizada inicialmente por feridas que não doem, não coçam e não ardem, localizadas no pênis, vagina, ânus, ou na pele, língua ou lábio.",
-                "opcoes": [
-                    "Verdadeiro",
-                    "Falso"
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "O tampão mucoso é um corrimento eliminado pela gestante nos dias que antecedem o parto, anunciando trabalho de parto.",
-                "opcoes": [
-                    "Verdadeiro",
-                    "Falso"
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "Qual das alternativas abaixo  é incorreta em relação às recomendações da boa pega do recém-nascido ao seio materno?",
-                "opcoes": [
-                    "Verdadeiro",
-                    "Falso"
-                ],
-                "resposta": 0
-            },
-            {
-                "titulo": "As contrações ocorrem durante o trabalho de parto, inicialmente a cada 5 minutos e se tornam menos fortes e regulares.",
-                "opcoes": [
-                    "Verdadeiro",
-                    "Falso"
-                ],
-                "resposta": 1
-            },
-            {
-                "titulo": "Amamentação é o ato de nutrir o bebê com seu próprio leite e também uma forma de se construir vínculo entre você e seu filho através do contato com sua pele, seu cheiro e seu aconchego.",
-                "opcoes": [
-                    "Verdadeiro",
-                    "Falso"
-                ],
-                "resposta": 0
-            }
-        ]
+        "resposta": 0
+      }
     ],
-    "titulos": [
-        "Teste seus Conhecimentos - Modificações na Gravidez",
-        "Teste seus Conhecimentos - Infecções Sexualmente Transmissíveis (ISTs)",
-        "Teste seus Conhecimentos - Bem-Estar",
-        "Teste seus Conhecimentos - Exames do Pré-Natal",
-        "Teste seus Conhecimentos - Participação do parceiro no Pré-Natal",
-        "Teste seus Conhecimentos - Amamentação e Parto",
-        "Teste seus Conhecimentos - Jogo Imagem Palavra",
-        "Teste seus Conhecimentos - Verdadeiro ou Falso"
+    [
+      {
+        "titulo": "O que são Infecções Sexualmente Transmissíveis (ISTs)?",
+        "opcoes": [
+          "Infecções causadas pela água contaminada;",
+          "Infecções transmitidas por meio da relação sexual desprotegida com uma pessoa infectada sem o uso da camisinha masculina ou feminina;",
+          "Infecções transmitidas pela fala, tosse ou espirro."
+        ],
+        "resposta": 1
+      },
+      {
+        "titulo": "As ISTs são classificadas em 3 grupos. Marque a alternativa que contém a classificação correta de ISTs:",
+        "opcoes": [
+          "Primária, secundária e terciária;",
+          "Precoce e Tardia;",
+          "As causadoras de feridas em região anal e genital, as que provocam corrimento vaginal e as que causam lesões do tipo verrugas na região genital."
+        ],
+        "resposta": 2
+      },
+      {
+        "titulo": "O uso de preservativo é crucial para evitar ISTs. Marque a alternativa que apresenta uma recomendação incorreta para o uso dos preservativos:",
+        "opcoes": [
+          "A camisinha pode ser reutilizada;",
+          "Não utilize preservativos rasgados ou furados;",
+          "Guarde o preservativo em local seco e fresco."
+        ],
+        "resposta": 0
+      },
+      {
+        "titulo": "Qual das alternativas abaixo são exemplos de IST?",
+        "opcoes": [
+          "Gonorreia, Sífilis, HIV;",
+          "Tétano, Sarampo e Rubéola;",
+          "Pneumonia, Tuberculose e Bronquite."
+        ],
+        "resposta": 0
+      },
+      {
+        "titulo": "Como a sífilis é transmitida e qual o nome da bactéria causadora dessa infecção?",
+        "opcoes": [
+          "A sífilis é causada por uma bactéria chamada Trichomonas Vaginalis e é transmitida através da relação sexual desprotegida (sem o uso de preservativo);",
+          "A sífilis é causada por uma bactéria chamada Treponema Pallidum e é transmitida através da relação sexual desprotegida (sem o uso de preservativo) com uma pessoa infectada ou da gestante infectada para o feto através da placenta ou, ocasionalmente, por contato direto com a lesão no momento do parto;",
+          "A sífilis é causada por uma bactéria chamada Treponema Pallidum e é transmitida através das vias aéreas de uma pessoa contaminada para outra sadia, através da fala, tosse ou espirro."
+        ],
+        "resposta": 1
+      },
+      {
+        "titulo": "Quais os sinais e sintomas da sífilis em seu estágio inicial, conhecido como estágio primário da doença e que pode ocorrer entre 10 a 90 dias após o contágio?",
+        "opcoes": [
+          "Manchas vermelhas pelo corpo, palma das mãos e planta dos pés, pode surgir febre, dor de cabeça, mal-estar e falta de apetite;",
+          "Comprometimento cerebral, sistema cardiovascular, lesões na pele e ossos;",
+          "Feridas que não doem, não coçam e nem ardem, localizadas no pênis, vagina, ânus ou na pele, língua ou lábios."
+        ],
+        "resposta": 2
+      }
+    ],
+    [
+      {
+        "titulo": "Qual a vitamina abaixo devemos tomar pelo menos 400 mcg por dia todos os dias, até as 12 primeiras semanas de gravidez, para ajudar a prevenir malformações na medula espinhal do bebê?",
+        "opcoes": ["Ácido Fólico;", "Vitamina C;", "Ferro."],
+        "resposta": 0
+      },
+      {
+        "titulo": "A anemia, falta de ferro no sangue é muito comum na gravidez e por esse motivo a gestantes deve consumir alimentos mais ricos em ferro. Marque a alternativa que contém exemplos de alimentos ricos em ferro:",
+        "opcoes": [
+          "Grãos, frutas, especialmente mamão, ameixa e verduras;",
+          "Carnes vermelhas, as aves e os peixes, verduras escuras, leguminosas (como lentilha, grão-de-bico, ervilha e feijões);",
+          "Frutas cítricas como: laranja, limão, morango, acerola."
+        ],
+        "resposta": 1
+      },
+      {
+        "titulo": "Qual das alternativas abaixo contém as vacinas que a gestante deve tomar durante a gestação?",
+        "opcoes": [
+          "Tétano, gripe (Influenza), Hepatite B, Tríplice viral;",
+          "Tétano, gripe (Influenza), Hepatite B e DTPa;",
+          "Tétano, Febre amarela, Hepatite B e DTPa"
+        ],
+        "resposta": 1
+      },
+      {
+        "titulo": "Qual intervalo de tempo para o reforço da vacina contra o Tétano?",
+        "opcoes": [
+          "Os reforços são aplicados a cada dez anos após a última dose, mas em caso de gravidez ou ferimentos graves deve-se antecipar a dose de reforço para 5 anos após a última dose administrada.",
+          "Os reforços são aplicados a cada 5 anos após a última dose, mas em caso de gravidez ou ferimentos graves deve-se antecipar a dose de reforço para 3 anos após a última dose administrada.",
+          "Os reforços são aplicados a cada dez anos após a última dose, mas em caso de gravidez ou ferimentos graves deve-se antecipar a dose de reforço para 3 anos após a última dose administrada."
+        ],
+        "resposta": 0
+      },
+      {
+        "titulo": "Qual das alternativas abaixo apresentam atividades físicas seguras durante a gravidez?",
+        "opcoes": [
+          "Caminhada, Hidroginástica, Ioga;",
+          "Hidroginástica, natação, Musculação pesada;",
+          "Hidroginástica, Pilates, agachamento."
+        ],
+        "resposta": 0
+      },
+      {
+        "titulo": "Qual opção à seguir não representa um dos benefícios da atividade física durante a gestação?",
+        "opcoes": [
+          "Diminui os enjôos e ocorrência de náuseas e vômitos;",
+          "Diminui desconfortos físicos, ajuda a manter a autoestima, melhora o sono;",
+          "Promove tônus muscular, força e resistência;"
+        ]
+      }
+    ],
+    [
+      {
+        "titulo": "Durante o Pré-Natal são solicitados exames de sorologia para determinadas doenças que quando ocorrem na gestação podem afetar seriamente o bebê. Para que serve esse tipo de exame?",
+        "opcoes": [
+          "Essas sorologias servem para detectar microorganismos (bactérias, vírus, fungos) no sangue da gestante para saber se ela está com determinado tipo de doença;",
+          "Essas sorologias servem para detectar anticorpos no sangue da gestante para saber se ela está com a doença atualmente ou se já tem imunidade contra essas doenças que geram risco materno e fetal;",
+          "Essas sorologias servem para detectar Diabetes gestacional e Hipertensão na gravidez."
+        ],
+        "resposta": 1
+      },
+      {
+        "titulo": "Já no momento da primeira consulta do Pré-natal, no posto de saúde são feitos os testes rápidos de HIV e Sífilis. Em relação aos testes rápidos, marque a alternativa correta:",
+        "opcoes": [
+          "Os testes de triagem possibilitam o diagnóstico precoce e contribui para que o tratamento seja iniciado de forma imediata em caso de teste reagente, tanto na gestante quanto em sua parceria sexual;",
+          "Os testes rápidos de HIV e Sífilis devem ser realizados em todas as consultas de pré-natal;",
+          "Se o resultado do teste rápido na gestante der reagente o parceiro sexual dela não precisa ser testado."
+        ],
+        "resposta": 0
+      },
+      {
+        "titulo": "Na infecção por sífilis, o resultado da transmissão da bactéria causadora dessa infecção a corrente sanguínea da gestante infectada para o feto através da placenta ou, ocasionalmente, por contato direto com a lesão no momento do parto (transmissão vertical) é chamada de:",
+        "opcoes": [
+          "Transmissão Adquirida;",
+          "Transmissão Horizontal;",
+          "Transmissão Vertical."
+        ],
+        "resposta": 2
+      },
+      {
+        "titulo": "Pequenos pontos elevados e inicialmente vermelhos ou rosados, febre, fígado aumentado de tamanho, pele amarelada, alterações ósseas que podem estar associadas a fraturas e intensa dor, são características de que fase da infecção por sífilis congênita na criança?",
+        "opcoes": [
+          "Sífilis Congênita precoce;",
+          "Sífilis Congênita tardia;",
+          "Sífilis latente."
+        ],
+        "resposta": 0
+      },
+      {
+        "titulo": "Protuberância na região frontal (“fronte olímpica”), nariz em sela, maxilar curto (“face de buldogue”), mandíbula protuberante, deficiência visual, perda auditiva são sintomas de:",
+        "opcoes": [
+          "Sífilis Congênita precoce;",
+          "Sífilis Congênita tardia;",
+          "Sífilis terciária."
+        ],
+        "resposta": 1
+      },
+      {
+        "titulo": "Exame realizado no pré-natal ao longo da gravidez, importante para acompanhamento da evolução da gestação, formação e desenvolvimento do feto, seus órgãos e sistemas, bem como verificar a quantidade de líquido amniótico, posição da placenta e condições de vitalidade do bebê:",
+        "opcoes": [
+          "Ressonância Magnética;",
+          "Ultrassonografia Obstétrica;",
+          "Tomografia Computadorizada."
+        ],
+        "resposta": 1
+      }
+    ],
+    [
+      {
+        "titulo": "Qual das alternativas abaixo é a correta em relação a participação do pai/parceiro durante todo o processo de pré-natal?",
+        "opcoes": [
+          "A presença do pai/parceiro da gestante no pré-natal não contribui para o bem-estar físico, psicológico, social da mãe, do bebê e dele próprio;",
+          "O pré-natal do Parceiro é uma oportunidade para o pai realizar exames de rotina e testes rápidos, vacinação, além de ser uma oportunidade para participarem das atividades educativas para uma paternidade consciente;",
+          "Não é permitida a presença do pai/parceiro da gestante nas consultas de pré-natal."
+        ],
+        "resposta": 1
+      },
+      {
+        "titulo": "Qual a importância do parceiro da gestante fazer os exames de triagem para HIV e Sífilis realizados no pré-natal e, em caso de resultado positivo já iniciar o tratamento assim que possível?",
+        "opcoes": [
+          "Interromper a evolução da infecção, evitando uma nova infecção na gestante e a possibilidade de transmissão dessa para o bebê.",
+          "Apenas manter sua saúde em dia;",
+          "Não há necessidade do parceiro da gestante realizar exames de triagem para HIV e Sífilis durante o pré-natal."
+        ],
+        "resposta": 0
+      },
+      {
+        "titulo": "A sífilis tem cura? Se Sim, como o tratamento é realizado?",
+        "opcoes": [
+          "A sífilis tem cura e o tratamento é realizado com injeção de benzetacil, de maneira que a dosagem do medicamento depende da fase da infecção;",
+          "A sífilis tem cura e o tratamento da sífilis é realizado com benzetacil, antibiótico via oral (comprimido), o qual deve ser tomado 2 vezes ao dia durante 7 dias;",
+          "Não existe tratamento para a sífilis."
+        ],
+        "resposta": 0
+      },
+      {
+        "titulo": "Após o tratamento da sífilis, como é feito o acompanhamento da melhora e cura da paciente?",
+        "opcoes": [
+          "Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum a cada 3 meses até o parto. Após o parto, o seguimento do tratamento continua trimestral até o 12º mês de acompanhamento;",
+          "Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum mensalmente até o parto. Após o parto, o seguimento do tratamento é trimestral até o 12º mês de acompanhamento;",
+          "Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum mensalmente até o parto. Após o parto não é necessário o seguimento do tratamento."
+        ],
+        "resposta": 1
+      },
+      {
+        "titulo": "Alguns pacientes podem apresentar testes persistentemente reagentes, em baixas dosagens de anticorpos, após o tratamento, é o que chamamos de:",
+        "opcoes": [
+          "Memória sorológica;",
+          "Cicatriz sorológica;",
+          "Rastro sorológico."
+        ],
+        "resposta": 1
+      },
+      {
+        "titulo": "O indivíduo pode adquirir sífilis sempre que se expor ao Treponema pallidum (bactéria causadora da sífilis). Essa afirmação é:",
+        "opcoes": ["Verdadeira;", "Falsa."],
+        "resposta": 0
+      }
+    ],
+    [
+      {
+        "titulo": "Qual das alternativas abaixo apresenta uma informação incorreta em relação aos benefícios da amamentação para o bebê?",
+        "opcoes": [
+          "O leite materno tem a vantagem de ser um alimento completo, que contém todos os nutrientes de que o bebê precisa, além de anticorpos que combatem doenças, funcionando como uma vacina natural;",
+          "A amamentação não contribui  para o desenvolvimento motor oral e da arcada dentária do bebê;",
+          "A amamentação além de ser um ato de nutrir é também uma forma de se construir vínculo entre você e seu filho através do contato com sua pele, seu cheiro e seu aconchego."
+        ],
+        "resposta": 1
+      },
+      {
+        "titulo": "Por que o aleitamento materno é importante para a mulher?",
+        "opcoes": [
+          "Dar o peito não ajuda a mãe emagrecer;",
+          "Protege a mulher contra alguns tipos de câncer, como o de mama e o de ovário;",
+          "A amamentação não protege a mulher contra a osteoporose."
+        ],
+        "resposta": 1
+      },
+      {
+        "titulo": "De acordo com a organização Mundial da Saúde (OMS) e o Ministério da Saúde é recomendado:",
+        "opcoes": [
+          "Amamentação exclusiva até os 6 meses de vida e a manutenção do leite materno na alimentação da criança até 2 anos de idade ou mais;",
+          "Amamentação exclusiva até os 4 meses de vida e a manutenção do leite materno na alimentação da criança até 2 anos de idade ou mais;",
+          "Amamentação exclusiva até os 3 meses de vida."
+        ],
+        "resposta": 0
+      },
+      {
+        "titulo": "Qual das alternativas abaixo  é incorreta em relação às recomendações da boa pega do recém-nascido ao seio materno?",
+        "opcoes": [
+          "Quando o bebê pega corretamente a mama fica com boca  bem aberta ( boca de peixinho), com os lábios virados para fora, bochechas arredondadas, queixo encostando no peito e nariz livre;",
+          "Quando o bebê pega o peito direitinho, o bebê não emite ruído ao mamar e a mãe não sente dor;",
+          "Os bicos artificiais como chupetas, mamadeira não atrapalham o processo de amamentação"
+        ],
+        "resposta": 2
+      },
+      {
+        "titulo": "Julgue a afirmação à seguir em verdadeiro ou falso: “ O trabalho de parto é caracterizado por contrações de um minuto, a cada cinco minutos; perda de líquido amniótico e eliminação do tampão mucoso.”",
+        "opcoes": ["Verdadeira;", "Falsa."],
+        "resposta": 0
+      },
+      {
+        "titulo": "Julgue a afirmação à seguir em verdadeiro ou falso: “Mesmo tendo realizado testes rápidos para HIV e Sífilis durante o pré-natal,  a gestante deve realizar novamente os testes rápidos na maternidade”.",
+        "opcoes": ["Verdadeira;", "Falsa."],
+        "resposta": 0
+      }
+    ],
+    [
+      {
+        "titulo": "Qual palavra abaixo corresponde a essa imagem?",
+        "imagem": "../imgs/image_7.png",
+        "opcoes": ["Pré-natal", "Preventivo", "Trabalho de parto"],
+        "resposta": 0
+      },
+      {
+        "titulo": "Qual palavra abaixo corresponde a essa imagem?",
+        "imagem": "../imgs/image_8.png",
+        "opcoes": ["Teste rápido", "Vacinação", "Coleta de sangue"],
+        "resposta": 1
+      },
+      {
+        "titulo": "Qual palavra abaixo corresponde a essa imagem?",
+        "imagem": "../imgs/image_9.png",
+        "opcoes": [
+          "Alimento rico em vitamina D",
+          "Alimento rico em vitamina C",
+          "Alimento rico em Ferro"
+        ],
+        "resposta": 2
+      },
+      {
+        "titulo": "Qual palavra abaixo corresponde a essa imagem?",
+        "imagem": "../imgs/image_10.png",
+        "opcoes": ["Raio X", "Ultrassom", "Ressonância"],
+        "resposta": 1
+      },
+      {
+        "titulo": "Qual palavra abaixo corresponde a essa imagem?",
+        "imagem": "../imgs/image_11.png",
+        "opcoes": [
+          "Anticoncepcional",
+          "Dispositivo Intra- Uterino (DIU)",
+          "Preservativo"
+        ],
+        "resposta": 2
+      },
+      {
+        "titulo": "Qual palavra abaixo corresponde a essa imagem?",
+        "imagem": "../imgs/image_12.png",
+        "opcoes": ["Teste rápido", "Pré-natal", "Vacinação"],
+        "resposta": 0
+      }
+    ],
+    [
+      {
+        "titulo": "Os testes rápidos de HIV e Sífilis são exames de triagem realizado durante o pré-natal e na maternidade, no momento da admissão para o parto. Consiste em uma furadinha leve no dedo, para a coleta de uma gotinha de sangue e dentro de cerca de no máximo 30 minutos já adianta para o profissional e para a gestante a possibilidade dela ser ou não portadora de HIV ou sífilis.",
+        "opcoes": ["Verdadeiro", "Falso"],
+        "resposta": 0
+      },
+      {
+        "titulo": "A vitamina C é um nutriente que evita anemia na gravidez e está presente em alimentos como: carnes vermelhas,  aves e peixes, verduras escuras, leguminosas (como lentilha, grão-de-bico, ervilha e feijões).",
+        "opcoes": ["Verdadeiro", "Falso"],
+        "resposta": 1
+      },
+      {
+        "titulo": "A sífilis é uma Infecção Sexualmente Transmissível causada por uma bactéria chamada Treponema pallidum e caracterizada inicialmente por feridas que não doem, não coçam e não ardem, localizadas no pênis, vagina, ânus, ou na pele, língua ou lábio.",
+        "opcoes": ["Verdadeiro", "Falso"],
+        "resposta": 0
+      },
+      {
+        "titulo": "O tampão mucoso é um corrimento eliminado pela gestante nos dias que antecedem o parto, anunciando trabalho de parto.",
+        "opcoes": ["Verdadeiro", "Falso"],
+        "resposta": 0
+      },
+      {
+        "titulo": "Qual das alternativas abaixo  é incorreta em relação às recomendações da boa pega do recém-nascido ao seio materno?",
+        "opcoes": ["Verdadeiro", "Falso"],
+        "resposta": 0
+      },
+      {
+        "titulo": "As contrações ocorrem durante o trabalho de parto, inicialmente a cada 5 minutos e se tornam menos fortes e regulares.",
+        "opcoes": ["Verdadeiro", "Falso"],
+        "resposta": 1
+      },
+      {
+        "titulo": "Amamentação é o ato de nutrir o bebê com seu próprio leite e também uma forma de se construir vínculo entre você e seu filho através do contato com sua pele, seu cheiro e seu aconchego.",
+        "opcoes": ["Verdadeiro", "Falso"],
+        "resposta": 0
+      }
     ]
+  ],
+  "titulos": [
+    "Teste seus Conhecimentos - Modificações físicas e emocionais da gravidez",
+    "Teste seus Conhecimentos - ISTs, Prevenção e Sífilis",
+    "Teste seus Conhecimentos - Bem-estar: alimentação, atividade física e vacinação",
+    "Teste seus Conhecimentos - Exames do Pré-Natal e Sífilis Congênita",
+    "Teste seus Conhecimentos - Participação do Parceiro no Pré-Natal, Tratamento da Sífilis e Acompanhamento",
+    "Teste seus Conhecimentos - Amamentação, Trabalho de Parto e Parto",
+    "Teste seus Conhecimentos - Jogo Imagem Palavra",
+    "Teste seus Conhecimentos - Verdadeiro ou Falso"
+  ]
 }
