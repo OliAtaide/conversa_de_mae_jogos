@@ -8,12 +8,14 @@
           "Pela variação hormonal no corpo da mulher no primeiro trimestre;",
           "Devido ao aumento do apetite."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) Devido a sintomas da Tensão Pré-Menstrual (TPM); Incorreta. As oscilações de humor características da Tensão Pré Menstrual (TPM) ocorrem em um período anterior a ocorrência da menstruação (fase do ciclo menstrual da mulher que indica ausência de gravidez após ela ter ovulado). Nesse caso, os sintomas em questão são decorrentes de alterações na corrente sanguínea dos hormônios estrógeno e progesterona. b) Pela variação hormonal no corpo da mulher no primeiro trimestre; Correta. A oscilação de humor que ocorre na gestante, geralmente no primeiro trimestre, se deve a elevação dos níveis hormonais de progesterona e o estrogênio, fazendo com que a gestante reaja mais pela emoção do que pela razão.  c) Devido ao aumento do apetite.Incorreta.  A sensação de fome pode causar mal humor, mas na gestante a oscilação de humor característica que ocorre geralmente no primeiro trimestre, se deve principalmente em função da variação hormonal nos níveis de progesterona e o estrogênio no corpo da gestante."
       },
       {
         "titulo": "Os sintomas de náuseas e vômitos, comuns no início da gestação, são provocados pelo aumento na corrente sanguínea do hormônio:",
         "opcoes": ["Insulina", "Melatonina", "Gonadotrofina Coriônica"],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Insulina; Incorreta. A insulina é responsável por controlar os níveis de açúcar no sangue ingerido através dos alimentos b) Melatonina; Incorreta. A melatonina é um hormônio produzido pela glândula pineal (que fica no cérebro) e quando liberada no sangue  induz o indivíduo ao sono. c) Gonadotrofina Coriônica.Correta. Os sintomas de náuseas e vômitos na gravidez estão relacionados a um aumento nos níveis de dois hormônios durante a gestação: a gonadotrofina coriônica humana (hCG), que é produzida pela placenta no início da gestação, e o estrogênio, que ajuda a manter a gravidez. "
       },
       {
         "titulo": "A mulher no início da gravidez sente mais vontade de urinar devido:",
@@ -22,7 +24,8 @@
           "Ao aumento da quantidade de líquido no corpo da mulher e aumento do trabalho dos rins;",
           "Ao crescimento do bebê, que distende o útero e esse por sua vez comprime a bexiga."
         ],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Aumento da quantidade de líquido no corpo da mulher e aumento do trabalho dos rins; Correto. Durante a gravidez existe um aumento considerável de fluxo sanguíneo para os rins. Com todo esse fluxo maior de sangue os rins costumam produzir mais urina. b) O aumento do consumo de líquidos pela mulher; Incorreto. O aumento da vontade de urinar na gestante pode estar relacionado  a uma maior ingestão de líquidos, mas independente do consumo de água, esse sintoma na gravidez está mais relacionado aumento considerável de fluxo sanguíneo para os rins no início da gravidez e a compressão da bexiga pelo crescimento uterino, principalmente no terceiro trimestre com o crescimento do bebê. c)  crescimento do bebê, que distende o útero e esse por sua vez comprime a bexiga. Incorreto. A compressão na bexiga causada pela distensão uterina em função do crescimento do bebê é a razão pela qual a gestante sente mais vontade de urinar no terceiro trimestre (período de maior aumento de peso e tamanho do bebê) e não no início da gravidez."
       },
       {
         "titulo": "Qual sintoma abaixo ocorre no início da gestação na gestante e é resultante do esforço extra que o corpo que o corpo da mulher faz para a formação e desenvolvimento do embrião no seu ventre?",
@@ -31,7 +34,8 @@
           "Sono excessivo, sensação de cansaço, indisposição",
           "Cólicas"
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) Aumento da sensibilidade nas mamas; Incorreto. Esse sintoma é resultante do aumento dos hormônios estrógeno e progesterona que fazem com que haja um aumento do fluxo sanguíneo para as mamas ocasionando aumento do tamanho do peito e também mais sensibilidade. b) Sono excessivo, sensação de cansaço, indisposição; Correto. Esse sintoma é resultante do fato de que a grávida nas primeiras semanas, além de desenvolver o feto, precisa gerar a placenta que irá nutrir o bebê ao longo da gravidez. Esse processo demanda muito gasto de energia da gestante gerando sensação de cansaço e fadiga. c) Cólicas. Incorreto. no início da gestação  Esse sintoma é decorrente da nidação do embrião, ou seja, a fixação na parede do útero. Com o passar dos dias e semanas, o feto cresce e se desenvolve, demandando adaptações uterinas e ocasionando contrações que também podem gerar cólicas."
       },
       {
         "titulo": "O que é a assistência Pré-Natal?",
@@ -40,7 +44,8 @@
           "Acompanhamento médico feito ao longo da gravidez, para monitorar a saúde do bebê e da gestante, para garantir uma gestação saudável;",
           "Acompanhamento médico feito pela mulher antes de engravidar."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) O período que antecede a gravidez da mulher; Incorreto. O período que antecede a gravidez da mulher é denominado Pré-concepcional. b) Acompanhamento médico feito ao longo da gravidez, para monitorar a saúde do bebê e da gestante, para garantir uma gestação saudável; Correto. A Assistência Pré-natal é um conjunto de cuidados destinados a mulher e ao feto durante a gravidez, que tem por objetivo oferecer o desenvolvimento saudável da gestação e boa evolução do parto. c) Acompanhamento médico feito pela mulher antes de engravidar. Incorreto. O acompanhamento médico feito pela mulher antes de engravidar para planejamento da gravidez é denominado Assistência Pré-concepcional."
       },
       {
         "titulo": "Com que frequência devem ser realizadas as consultas de Pré-Natal?",
@@ -49,7 +54,8 @@
           "As consultas de pré-natal devem ser realizadas 1 vez a cada 3 meses;",
           "As consultas de pré-natal devem ser realizadas 1 vez a cada  2 meses; a partir das 36 semanas, a cada 2 semanas e a partir das 38 semanas, 1 vez por semana;"
         ],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) As consultas de pré-natal devem ser realizadas 1 vez a cada 4 semanas. A partir das 28 semanas de gestação até 36 semanas a cada 2 semanas e a partir das 37 semanas 1 vez por semana; Correto. Conforme recomendação do Ministério da Saúde, as consultas de pré-natal devem ocorrer mensalmente, até a 28ª semana; quinzenalmente, da 28ª até a 36ª semana e semanalmente, a partir das 37 semanas de gestação. b) As consultas de pré-natal devem ser realizadas 1 vez a cada 3 meses; Incorreto. Conforme recomendação do Ministério da Saúde, as consultas de pré-natal devem ocorrer mensalmente, até a 28ª semana; quinzenalmente, da 28ª até a 36ª semana e semanalmente, no termo. c) As consultas de pré-natal devem ser realizadas 1 vez a cada 2 meses, a partir das 36 semanas a cada 2 semanas e a partir das 38 semanas 1 vez por semana; Incorreto. Conforme recomendação do Ministério da Saúde, as consultas de pré-natal devem ocorrer mensalmente, até a 28ª semana; quinzenalmente, da 28ª até a 36ª semana e semanalmente, no termo."
       }
     ],
     [
