@@ -99,7 +99,10 @@ function imprimirQuestoes(index) {
           `"   class="btn btn-redo w-auto">
                             Refazer
                         </a>
-                        <a href="" class="btn btn-next d-flex align-items-center w-auto">
+                        <a href="./game` +
+          (index + 2) +
+          ".html" +
+          `" class="btn btn-next d-flex align-items-center w-auto">
                             Próximo
                             <i class="bi bi-arrow-right-short"></i>
                         </a>
