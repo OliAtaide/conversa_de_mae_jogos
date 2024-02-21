@@ -14,25 +14,25 @@
       {
         "titulo": "Os sintomas de náuseas e vômitos, comuns no início da gestação, são provocados pelo aumento na corrente sanguínea do hormônio:",
         "opcoes": ["Insulina", "Melatonina", "Gonadotrofina Coriônica"],
-        "resposta": 0,
+        "resposta": 2,
         "feedback": "a) Insulina; Incorreta. A insulina é responsável por controlar os níveis de açúcar no sangue ingerido através dos alimentos b) Melatonina; Incorreta. A melatonina é um hormônio produzido pela glândula pineal (que fica no cérebro) e quando liberada no sangue  induz o indivíduo ao sono. c) Gonadotrofina Coriônica.Correta. Os sintomas de náuseas e vômitos na gravidez estão relacionados a um aumento nos níveis de dois hormônios durante a gestação: a gonadotrofina coriônica humana (hCG), que é produzida pela placenta no início da gestação, e o estrogênio, que ajuda a manter a gravidez. "
       },
       {
         "titulo": "A mulher no início da gravidez sente mais vontade de urinar devido:",
         "opcoes": [
           "Ao aumento da quantidade de líquido no corpo da mulher e aumento do trabalho dos rins;",
-          "Ao aumento da quantidade de líquido no corpo da mulher e aumento do trabalho dos rins;",
+          "Ao aumento do consumo de líquidos pela mulher;",
           "Ao crescimento do bebê, que distende o útero e esse por sua vez comprime a bexiga."
         ],
         "resposta": 0,
         "feedback": "a) Aumento da quantidade de líquido no corpo da mulher e aumento do trabalho dos rins; Correto. Durante a gravidez existe um aumento considerável de fluxo sanguíneo para os rins. Com todo esse fluxo maior de sangue os rins costumam produzir mais urina. b) O aumento do consumo de líquidos pela mulher; Incorreto. O aumento da vontade de urinar na gestante pode estar relacionado  a uma maior ingestão de líquidos, mas independente do consumo de água, esse sintoma na gravidez está mais relacionado aumento considerável de fluxo sanguíneo para os rins no início da gravidez e a compressão da bexiga pelo crescimento uterino, principalmente no terceiro trimestre com o crescimento do bebê. c)  crescimento do bebê, que distende o útero e esse por sua vez comprime a bexiga. Incorreto. A compressão na bexiga causada pela distensão uterina em função do crescimento do bebê é a razão pela qual a gestante sente mais vontade de urinar no terceiro trimestre (período de maior aumento de peso e tamanho do bebê) e não no início da gravidez."
       },
       {
-        "titulo": "Qual sintoma abaixo ocorre no início da gestação na gestante e é resultante do esforço extra que o corpo que o corpo da mulher faz para a formação e desenvolvimento do embrião no seu ventre?",
+        "titulo": "Qual sintoma abaixo ocorre no início da gestação na gestante e é resultante do esforço extra que o corpo da mulher faz para a formação e desenvolvimento do embrião no seu ventre?",
         "opcoes": [
-          "Aumento da sensibilidade das mamas",
-          "Sono excessivo, sensação de cansaço, indisposição",
-          "Cólicas"
+          "Aumento da sensibilidade das mamas;",
+          "Sono excessivo, sensação de cansaço, indisposição;",
+          "Cólicas."
         ],
         "resposta": 1,
         "feedback": "a) Aumento da sensibilidade nas mamas; Incorreto. Esse sintoma é resultante do aumento dos hormônios estrógeno e progesterona que fazem com que haja um aumento do fluxo sanguíneo para as mamas ocasionando aumento do tamanho do peito e também mais sensibilidade. b) Sono excessivo, sensação de cansaço, indisposição; Correto. Esse sintoma é resultante do fato de que a grávida nas primeiras semanas, além de desenvolver o feto, precisa gerar a placenta que irá nutrir o bebê ao longo da gravidez. Esse processo demanda muito gasto de energia da gestante gerando sensação de cansaço e fadiga. c) Cólicas. Incorreto. no início da gestação  Esse sintoma é decorrente da nidação do embrião, ou seja, a fixação na parede do útero. Com o passar dos dias e semanas, o feto cresce e se desenvolve, demandando adaptações uterinas e ocasionando contrações que também podem gerar cólicas."
@@ -50,7 +50,7 @@
       {
         "titulo": "Com que frequência devem ser realizadas as consultas de Pré-Natal?",
         "opcoes": [
-          "As consultas de pré-natal devem ser realizadas 1 vez a cada 4 semanas; a partir das 36 semanas, a cada 2 semanas e a partir das 38 semanas, 1 vez por semana;",
+          "As consultas de pré-natal devem ser realizadas 1 vez a cada 4 semanas. A partir das 28 semanas de gestação até 36 semanas a cada 2 semanas e a partir das 37 semanas 1 vez por semana;",
           "As consultas de pré-natal devem ser realizadas 1 vez a cada 3 meses;",
           "As consultas de pré-natal devem ser realizadas 1 vez a cada  2 meses; a partir das 36 semanas, a cada 2 semanas e a partir das 38 semanas, 1 vez por semana;"
         ],
@@ -66,7 +66,8 @@
           "Infecções transmitidas por meio da relação sexual desprotegida com uma pessoa infectada sem o uso da camisinha masculina ou feminina;",
           "Infecções transmitidas pela fala, tosse ou espirro."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) Infecções transmitidas pela água contaminada; Incorreto. Infecções transmitidas por meio da água contaminada são Infecções de veiculação hídrica, como por exemplo: Cólera, Amebíase, Hepatites A e E . b) Infecções transmitidas  por meio da relação sexual desprotegida com uma pessoa infectada sem o uso da camisinha masculina ou feminina; Correto.  As Infecções Sexualmente Transmissíveis são transmitidas, principalmente, por meio do contato sexual (oral, vaginal, anal) sem o uso de camisinha masculina ou feminina, com uma pessoa que esteja infectada. c) Infecções transmitidas pela fala, tosse ou espirro. Incorreto. Infecções transmitidas pela fala, tosse ou espirro são Infecções de Transmissão por gotículas, como por exemplo: Gripe, Coqueluche, Rubéola ."
       },
       {
         "titulo": "As ISTs são classificadas em 3 grupos. Marque a alternativa que contém a classificação correta de ISTs:",
@@ -75,7 +76,8 @@
           "Precoce e Tardia;",
           "As causadoras de feridas em região anal e genital, as que provocam corrimento vaginal e as que causam lesões do tipo verrugas na região genital."
         ],
-        "resposta": 2
+        "resposta": 2,
+        "feedback": "a) Primária, secundária e terciária; Incorreto. Essas são classificações dos diferentes estágios da Sífilis que é uma dentre tantas outras Infecções Sexualmente Transmissíveis que existem. b) Precoce e Tardia; Incorreto. Essas classificações são estágios da sífilis congênita, sendo a Precoce o estágio em que os sinais e sintomas se manifestam até o 2º ano de vida da criança e a Tardia, após o 2º ano de vida da criança. c) Ulcerosas, verrugosas e as que causam corrimento, seja ele vaginal ou uretral. Correta. A Infecções Sexualmente Transmissíveis são classificadas em: Ulcerosas, causadoras de feridas em região anal e genital (Ex.: Sífilis, Herpes); Verrugosas, as que causam lesões do tipo verrugas na região genital (Ex.: HPV) e as que provocam corrimento vaginal (Ex.: Tricomoníase, Gonorreia)  ou uretral (Ex.: Gonorreia, Infecção por Clamídia)."
       },
       {
         "titulo": "O uso de preservativo é crucial para evitar ISTs. Marque a alternativa que apresenta uma recomendação incorreta para o uso dos preservativos:",
@@ -84,7 +86,8 @@
           "Não utilize preservativos rasgados ou furados;",
           "Guarde o preservativo em local seco e fresco."
         ],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) A camisinha pode ser reutilizada; Acertou! Essa alternativa é incorreta, pois se reutilizado é muito provável que o preservativo seja rasgado, anulando então sua segurança e eficácia. b) Não utilize preservativos rasgados ou furados; Errou! Essa alternativa é correta, pois preservativos rasgados e furados anulam sua segurança e eficácia. c) Guarde o preservativo em local seco e fresco. Errou! Essa alternativa é correta, pois calor, humidade, fricção e luz podem danificar os preservativos e torná-los menos efetivos"
       },
       {
         "titulo": "Qual das alternativas abaixo são exemplos de IST?",
@@ -93,7 +96,8 @@
           "Tétano, Sarampo e Rubéola;",
           "Pneumonia, Tuberculose e Bronquite."
         ],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Gonorreia, Sífilis, HIV; Correta. Gonorreia, Sífilis, HIV são exemplos de IST, causadas por meio da relação sexual desprotegida com uma pessoa infectada sem o uso da camisinha masculina ou feminina. b) Tétano, Sarampo e Rubéola; Incorreta. Essas doenças são exemplos de doenças Infecto-contagiosas. c) Pneumonia, Tuberculose e Bronquite. Incorreta. Essas doenças são exemplos de infecções Pulmonares."
       },
       {
         "titulo": "Como a sífilis é transmitida e qual o nome da bactéria causadora dessa infecção?",
@@ -102,7 +106,8 @@
           "A sífilis é causada por uma bactéria chamada Treponema Pallidum e é transmitida através da relação sexual desprotegida (sem o uso de preservativo) com uma pessoa infectada ou da gestante infectada para o feto através da placenta ou, ocasionalmente, por contato direto com a lesão no momento do parto;",
           "A sífilis é causada por uma bactéria chamada Treponema Pallidum e é transmitida através das vias aéreas de uma pessoa contaminada para outra sadia, através da fala, tosse ou espirro."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) A sífilis é causada por uma bactéria chamada Trichomonas Vaginalis e é transmitida através da relação sexual desprotegida (sem o uso de preservativo); Incorreto. A Trichomonas Vaginalis é bactéria causadora da Infecção Sexualmente Transmissível chamada Tricomoníase. b) A sífilis é causada por uma bactéria chamada Treponema Pallidum e é transmitida através da relação sexual desprotegida (sem o uso de preservativo) com uma pessoa infectada ou da gestante infectada para o feto através da placenta ou, ocasionalmente, por contato direto com a lesão no momento do parto; Correto. A sífilis é transmitida é causada por uma bactéria chamada Treponema Pallidum por meio das relações sexuais desprotegidas, da mãe para o filho em qualquer fase da gestação ou no momento do parto (sífilis congênita). c) A sífilis é causada por uma bactéria chamada Treponema Pallidum e é transmitida através das vias aéreas de uma pessoa contaminada para outra sadia, através da fala, tosse ou espirro. Incorreto. A Sífilis é uma IST e não é transmitida por via aérea de uma pessoa contaminada para outra sadia, através da fala, tosse ou espirro."
       },
       {
         "titulo": "Quais os sinais e sintomas da sífilis em seu estágio inicial, conhecido como estágio primário da doença e que pode ocorrer entre 10 a 90 dias após o contágio?",
@@ -111,14 +116,16 @@
           "Comprometimento cerebral, sistema cardiovascular, lesões na pele e ossos;",
           "Feridas que não doem, não coçam e nem ardem, localizadas no pênis, vagina, ânus ou na pele, língua ou lábios."
         ],
-        "resposta": 2
+        "resposta": 2,
+        "feedback": "a) Manchas vermelhas pelo corpo, palma das mãos e planta dos pés, pode surgir febre, dor de cabeça, mal-estar e falta de apetite; Incorreto. Esse estágio é conhecido como estágio secundário da doença que pode ocorrer de ocorre em média entre seis semanas e seis meses após a cicatrização das úlceras/feridas. b) Comprometimento cerebral, sistema cardiovascular, lesões na pele e ossos; Incorreto. Esse estágio é conhecido como estágio terciário da doença que pode ocorrer, entre um e 40 anos depois do início da infecção. c) Ferida no pênis, vagina, ânus ou outro local na pele, língua ou lábios que não dói, não coça e não arde. Correto. Esse estágio é conhecido como estágio primário da doença que pode ocorrer de 10 a 90 dias após contágio."
       }
     ],
     [
       {
         "titulo": "Qual a vitamina abaixo devemos tomar pelo menos 400 mcg por dia todos os dias, até as 12 primeiras semanas de gravidez, para ajudar a prevenir malformações na medula espinhal do bebê?",
         "opcoes": ["Ácido Fólico;", "Vitamina C;", "Ferro."],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Ácido Fólico; Correto. O ácido fólico na gravidez é indicado para prevenir defeitos do fechamento do tubo neural do feto, que é responsável pelo desenvolvimento de todo o sistema nervoso, cérebro e medula espinhal do bebê, e assim diminuir o risco de malformações. b) Vitamina C; Incorreto. A Vitamina C é importante para produção de colágeno, uma proteína necessária para a formação de cartilagem, tendões, ossos e pele e é importante também para o desenvolvimento do sistema imunológico saudável, tanto para a mamãe quanto para o bebê. c) Ferro. Incorreto. O Ferro é o nutriente responsável, principalmente, pelo auxílio na formação das células vermelhas do sangue e transporte de oxigênio para as células do corpo, apoiando todo o metabolismo energético e funcionamento do sistema imune."
       },
       {
         "titulo": "A anemia, falta de ferro no sangue é muito comum na gravidez e por esse motivo a gestantes deve consumir alimentos mais ricos em ferro. Marque a alternativa que contém exemplos de alimentos ricos em ferro:",
@@ -127,7 +134,8 @@
           "Carnes vermelhas, as aves e os peixes, verduras escuras, leguminosas (como lentilha, grão-de-bico, ervilha e feijões);",
           "Frutas cítricas como: laranja, limão, morango, acerola."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) Grãos, frutas, especialmente mamão, ameixa e verduras; Incorreto. Esses alimentos são fontes de fibras, muito indicados para casos de constipação na gravidez. b) Carnes vermelhas, as aves e os peixes, verduras escuras, leguminosas (como lentilha, grão-de-bico, ervilha e feijões); Correto. Todos os alimentos mencionados são ricas fontes de ferro, nutriente muito importante para evitar anemia na gestação. c) Frutas cítricas como: laranja, limão, morango, acerola. Incorreto. Esses alimentos são ricos em Vitamina C."
       },
       {
         "titulo": "Qual das alternativas abaixo contém as vacinas que a gestante deve tomar durante a gestação?",
@@ -136,7 +144,8 @@
           "Tétano, gripe (Influenza), Hepatite B e DTPa;",
           "Tétano, Febre amarela, Hepatite B e DTPa"
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) Tétano, gripe (Influenza), Hepatite B, Tríplice viral; Incorreta. Apesar das vacinas contra Tétano, gripe (Influenza) e  Hepatite B fazerem parte do calendário vacinal da gestante, a vacina Tríplice viral é recomendada no Calendário Vacinal da Criança aos 12 meses (1ª dose)  e aos 15 meses (dose de Reforço), conforme Ministério da Saúde. b) Tétano, gripe (Influenza), Hepatite B e DTPa (Difteria, Tétano e Pertussis acelular); Correta. As vacinas contra Tétano, gripe (Influenza) e  Hepatite B e DTPa fazerem parte do calendário vacinal da gestante, conforme recomendação do Ministério da Saúde. c) Tétano, Febre amarela, Hepatite B e DTPa. Incorreta. Apesar das vacinas contra Tétano, gripe (Influenza) e  Hepatite B fazerem parte do calendário vacinal da gestante, a vacina contra a Febre Amarela  é recomendada no Calendário Vacinal da Criança aos 9 meses de vida (1ª dose)  e aos 4 anos de idade (dose de Reforço), de acordo com o Ministério da Saúde."
       },
       {
         "titulo": "Qual intervalo de tempo para o reforço da vacina contra o Tétano?",
@@ -145,7 +154,8 @@
           "Os reforços são aplicados a cada 5 anos após a última dose, mas em caso de gravidez ou ferimentos graves deve-se antecipar a dose de reforço para 3 anos após a última dose administrada.",
           "Os reforços são aplicados a cada dez anos após a última dose, mas em caso de gravidez ou ferimentos graves deve-se antecipar a dose de reforço para 3 anos após a última dose administrada."
         ],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Os reforços são aplicados a cada dez anos após a última dose, mas em caso de gravidez ou ferimentos graves deve-se antecipar a dose de reforço para 5 anos após a última dose administrada. Correto. Conforme calendário vacinal da gestante estabelecido pelo Ministério da Saúde, a vacina contra Difteria e Tétano (DT) deve ser realizada em 3 doses com intervalo de 30 a 60 dias entre elas e o reforço a cada 10 anos. Em caso de ferimentos graves o reforço é a cada 5 anos. b) Os reforços são aplicados a cada 5 anos após a última dose, mas em caso de gravidez ou ferimentos graves deve-se antecipar a dose de reforço para 3 anos após a última dose administrada. Incorreta. Conforme calendário vacinal da gestante estabelecido pelo Ministério da Saúde, o reforço da vacina contra Difteria e Tétano (DT) deve ser realizado a cada 10 anos. Em caso de ferimentos graves o reforço é a cada 5 anos. c) Os reforços são aplicados a cada dez anos após a última dose, mas em caso de gravidez ou ferimentos graves deve-se antecipar a dose de reforço para 3 anos após a última dose administrada. Incorreta. Conforme calendário vacinal da gestante estabelecido pelo Ministério da Saúde, o reforço da vacina contra Difteria e Tétano (DT) deve ser realizado a cada 10 anos. Em caso de ferimentos graves o reforço é a cada 5 anos."
       },
       {
         "titulo": "Qual das alternativas abaixo apresentam atividades físicas seguras durante a gravidez?",
@@ -154,7 +164,8 @@
           "Hidroginástica, natação, Musculação pesada;",
           "Hidroginástica, Pilates, agachamento."
         ],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Caminhada, Hidroginástica, Ioga; Correto. Essas atividades são exemplos de exercícios de baixo impacto, sendo, portanto, mais seguros para serem realizados durante a gravidez b) Hidroginástica, natação, Musculação pesada; Incorreto. Dentre as opções de atividades dessa alternativa, a Musculação Pesada não seria um exercício seguro, pois de um modo geral a gestante deve evitar excesso de carga, principalmente quando não realizava atividades físicas vigorosas antes da gravidez. c) Hidroginástica, Pilates, agachamento. Incorreto. Dentre as opções de atividades dessa alternativa, o agachamento não seria um exercício seguro, pois apesar de ser recomendado, não pode ser feito indiscriminadamente e em qualquer momento sem orientação de um profissional, em especial nos casos de gestação de risco."
       },
       {
         "titulo": "Qual opção à seguir não representa um dos benefícios da atividade física durante a gestação?",
@@ -162,7 +173,9 @@
           "Diminui os enjôos e ocorrência de náuseas e vômitos;",
           "Diminui desconfortos físicos, ajuda a manter a autoestima, melhora o sono;",
           "Promove tônus muscular, força e resistência;"
-        ]
+        ],
+        "resposta": 0,
+        "feedback": "a) Diminui os enjôos e ocorrência de náuseas e vômitos; Acertou. A atividade física não está relacionada diretamente com esses sintomas. Algumas medidas que podem diminuir tais desconfortos são: https://clinicamedicaclimed.com.br/dicas-para-reduzir-os-enjoos-na-gravidez/ b) Diminui desconfortos físicos, ajuda a manter a autoestima, melhora o sono; Errou. Essa alternativa consiste sim em um dos benefícios da realização de atividade física durante a gestação. c) Promove tônus muscular, força e resistência; Errou. Essa alternativa consiste sim em um dos benefícios da realização de atividade física durante a gestação."
       }
     ],
     [
@@ -173,7 +186,8 @@
           "Essas sorologias servem para detectar anticorpos no sangue da gestante para saber se ela está com a doença atualmente ou se já tem imunidade contra essas doenças que geram risco materno e fetal;",
           "Essas sorologias servem para detectar Diabetes gestacional e Hipertensão na gravidez."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) As sorologias servem para detectar alguma alteração no suprimento de sangue da mãe para o bebê. Incorreto. O exame que realiza um estudo da circulação sanguínea materna e fetal é o exame de imagem Ultrassonografia obstétrica com Doppler indicado para ser realizado a partir da 28° semana de gestação. b) As sorologias servem para detectar anticorpos no sangue da gestante para saber se ela está com a doença atualmente ou se já tem imunidade contra  doenças que geram risco materno e fetal; Correto. Os exames sorológicos são usados para identificar a presença de anticorpos que são desenvolvidos como resposta no nosso sistema imunológico a substâncias estranhas ao organismo, como vírus e bactérias, dentre ou microrganismos. c) As sorologias servem para detectar Diabetes gestacional e Hipertensão na gravidez. Incorreto. Exames de sorologias não detectam Diabetes gestacional e Hipertensão na gravidez. A Diabetes gestacional é diagnosticada por meio de exames de sangue de dosagem de glicemia de jejum e hemoglobina Glicada, enquanto que a Hipertensão na gravidez é identificada  por meio da medida da pressão arterial (maior ou igual a 140/90 mmHg), depois de ser medida em duas ocasiões com pelo menos 4 horas de intervalo."
       },
       {
         "titulo": "Já no momento da primeira consulta do Pré-natal, no posto de saúde são feitos os testes rápidos de HIV e Sífilis. Em relação aos testes rápidos, marque a alternativa correta:",
@@ -182,7 +196,8 @@
           "Os testes rápidos de HIV e Sífilis devem ser realizados em todas as consultas de pré-natal;",
           "Se o resultado do teste rápido na gestante der reagente o parceiro sexual dela não precisa ser testado."
         ],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Os testes de triagem possibilitam o diagnóstico precoce e contribui para que o tratamento seja iniciado de forma imediata em caso de teste reagente, tanto na gestante quanto em sua parceria sexual; Correto. Devido ao cenário epidemiológico atual, recomenda-se tratamento imediato da gestante, com benzilpenicilina benzatina, após apenas um teste rápido reagente para sífilis. b) Os testes rápidos de HIV e Sífilis devem ser realizados em todas as consultas de pré-natal; Incorreto. Conforme recomendação do Ministério da Saúde, as gestantes devem ser testadas para sífilis na primeira consulta, no início do terceiro trimestre e na internação para o parto, em caso de aborto/natimorto ou história de exposição de risco/violência sexual. c) Se o resultado do teste rápido na gestante der reagente o parceiro sexual dela não precisa ser testado. Incorreto. Todas as parcerias da gestante que teve seu teste rápido reagente devem ser testadas. Quando o teste de sífilis for reagente, recomenda-se tratamento de sífilis adquirida de acordo com o estágio da doença. A avaliação e tratamento das parcerias sexuais é crucial para interromper a cadeia de transmissão da infecção."
       },
       {
         "titulo": "Na infecção por sífilis, o resultado da transmissão da bactéria causadora dessa infecção a corrente sanguínea da gestante infectada para o feto através da placenta ou, ocasionalmente, por contato direto com a lesão no momento do parto (transmissão vertical) é chamada de:",
@@ -191,7 +206,8 @@
           "Transmissão Horizontal;",
           "Transmissão Vertical."
         ],
-        "resposta": 2
+        "resposta": 2,
+        "feedback": "a) Transmissão adquirida; Incorreto. Esse tipo de transmissão da doença ocorre principalmente por contato sexual desprotegido (sem uso de preservativo); b) Transmissão Horizontal; Incorreto. Não existe essa denominação dentre as formas de transmissão da Sífilis. c) Transmissão Vertical. Correto. A Transmissão vertical ocorre quando a infecção é transmitida de uma mulher com sífilis não tratada ou tratada de forma não adequada para o feto durante a gestação."
       },
       {
         "titulo": "Pequenos pontos elevados e inicialmente vermelhos ou rosados, febre, fígado aumentado de tamanho, pele amarelada, alterações ósseas que podem estar associadas a fraturas e intensa dor, são características de que fase da infecção por sífilis congênita na criança?",
@@ -200,7 +216,8 @@
           "Sífilis Congênita tardia;",
           "Sífilis latente."
         ],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Sífilis Congênita precoce; Correto. Os sintomas apontados no enunciado são característicos da Sífilis Congênita precoce, a qual ocorre após o nascimento da criança até os dois anos de idade. b) Sífilis Congênita tardia; Incorreto. A sífilis congênita tardia é caracterizada por: Protuberância na região frontal (“fronte olímpica”), nariz em sela e mandíbula protuberante; Deficiência visual; perda auditiva; Deficiência intelectual, hidrocefalia; Mal formação óssea: tíbia em “lâmina de sabre”, mal formação da clavícula. c) Sífilis latente. Incorreto. A Sífilis latente é o período da infecção em que não se observa nenhum sinal ou sintoma. Esse estágio da Sífilis é dividido em latente recente (até dois anos de infecção) e latente tardia (mais de dois anos de infecção)."
       },
       {
         "titulo": "Protuberância na região frontal (“fronte olímpica”), nariz em sela, maxilar curto (“face de buldogue”), mandíbula protuberante, deficiência visual, perda auditiva são sintomas de:",
@@ -209,7 +226,8 @@
           "Sífilis Congênita tardia;",
           "Sífilis terciária."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) Sífilis Congênita precoce; Incorreto. Diferentes dos sintomas citados, os sinais e sintomas da Sífilis Congênita precoce são: Febre; Fígado aumentado de tamanho; Pele amarelada; Alterações ósseas. b) Sífilis Congênita Tardia; Correto. Os sintomas mencionados no enunciado correspondem aos da Sífilis Congênita Tardia e estão relacionadas à inflamação persistente da infecção precoce. c) Sífilis terciária. Incorreto. A Sífilis Terciária é um dos estágios da sífilis adquirida e não Sífilis Congênita. Nesse estágio a inflamação causa destruição de tecidos ocasionando comprometimento do sistema nervoso e do sistema cardiovascular."
       },
       {
         "titulo": "Exame realizado no pré-natal ao longo da gravidez, importante para acompanhamento da evolução da gestação, formação e desenvolvimento do feto, seus órgãos e sistemas, bem como verificar a quantidade de líquido amniótico, posição da placenta e condições de vitalidade do bebê:",
@@ -218,7 +236,8 @@
           "Ultrassonografia Obstétrica;",
           "Tomografia Computadorizada."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) Ressonância Magnética; Incorreto. Ressonância Magnética não faz parte dos exames de imagem de rotina a serem realizados ao longo da assistência pré-natal. b) Ultrassonografia obstétrica; Correto. As ultrassonografias obstétricas fazem parte dos exames de rotina realizados ao longo da assistência pré-natal no primeiro, segundo e terceiro trimestre. c) Tomografia Computadorizada. Incorreto. Tomografia Computadorizada não faz parte dos exames de imagem de rotina a serem realizados ao longo da assistência pré-natal."
       }
     ],
     [
@@ -229,7 +248,8 @@
           "O pré-natal do Parceiro é uma oportunidade para o pai realizar exames de rotina e testes rápidos, vacinação, além de ser uma oportunidade para participarem das atividades educativas para uma paternidade consciente;",
           "Não é permitida a presença do pai/parceiro da gestante nas consultas de pré-natal."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) A presença do pai/parceiro da gestante no pré-natal não contribui para o bem-estar físico, psicológico, social da mãe, do bebê e dele próprio; Incorreto. Diferente do que afirma o enunciado a presença do pai/parceiro da gestante no pré-natal contribui sim para o bem-estar físico, psicológico, social da mãe, do bebê e do próprio pai. b) O pré-natal do Parceiro é uma oportunidade para o pai realizar exames de rotina e testes rápidos, vacinação, além de ser uma oportunidade para participarem das atividades educativas para uma paternidade consciente; Correto. O Pré-natal do parceiro é uma estratégia do Ministério da Saúde que propõe ações voltadas para o fortalecimento do seu acesso à prevenção, à promoção, autocuidado e à adoção de estilos de vida mais saudáveis, bem como participação na gestação, no parto e no cuidado e na educação das crianças. c) Não é permitida a presença do parceiro da gestante nas consultas de pré-natal. Incorreto. É permitido sim a presença do parceiro da gestante nas consultas de pré-natal. Está cada vez mais frequente a participação do pai no pré-natal, devendo sua presença ser estimulada durante as atividades de consulta e de grupo, para o preparo do casal para o parto, como parte do planejamento familiar."
       },
       {
         "titulo": "Qual a importância do parceiro da gestante fazer os exames de triagem para HIV e Sífilis realizados no pré-natal e, em caso de resultado positivo já iniciar o tratamento assim que possível?",
@@ -238,7 +258,8 @@
           "Apenas manter sua saúde em dia;",
           "Não há necessidade do parceiro da gestante realizar exames de triagem para HIV e Sífilis durante o pré-natal."
         ],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Interromper a evolução da infecção, evitando uma nova infecção na gestante e a possibilidade de transmissão dessa para o bebê. Correto. Realizando os testes de triagem para HIV e Sífilis no pré-natal o parceiro pode identificar precocemente uma possível infecção e iniciar o tratamento em tempo oportuno, bloqueando assim a cadeia de transmissão. b) Apenas manter sua saúde em dia; Incorreto. O parceiro ao realizar os exames de triagem para HIV e Sífilis no pré-natal contribui não só para sua saúde e de sua família, como contribui para as estratégias de prevenção, monitormanto e redução do impacto das doenças transmissíveis na população. c) Não há necessidade do parceiro da gestante realizar exames de triagem para HIV e Sífilis durante o pré-natal. Incorreto. O Guia do Pré-natal do Parceiro recomendado pelo Ministério da Saúde sugere que o parceiro realize exames de triagem para HIV e Sífilis, além de exames de triagem para Hepatite B e C."
       },
       {
         "titulo": "A sífilis tem cura? Se Sim, como o tratamento é realizado?",
@@ -247,7 +268,8 @@
           "A sífilis tem cura e o tratamento da sífilis é realizado com benzetacil, antibiótico via oral (comprimido), o qual deve ser tomado 2 vezes ao dia durante 7 dias;",
           "Não existe tratamento para a sífilis."
         ],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) O tratamento da sífilis é realizado com injeção de Benzetacil e a dosagem do medicamento depende da fase da infecção; Correto. O tratamento da sífilis é realizado com injeção intramuscular de Benzetacil e a quantidade de doses do medicamento depende do estágio da infecção. b) O tratamento da sífilis é realizado com Benzetacil, antibiótico via oral (comprimido), o qual deve ser tomado 2 vezes ao dia durante 7 dias; Incorreto. O tratamento da sífilis é realizado com injeção intramuscular de benzetacil e não via oral (comprimido). c) Não existe tratamento para a sífilis; Incorreto. A sífilis tem cura e existe tratamento para resolvê-la com antibiótico."
       },
       {
         "titulo": "Após o tratamento da sífilis, como é feito o acompanhamento da melhora e cura da paciente?",
@@ -256,7 +278,8 @@
           "Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum mensalmente até o parto. Após o parto, o seguimento do tratamento é trimestral até o 12º mês de acompanhamento;",
           "Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum mensalmente até o parto. Após o parto não é necessário o seguimento do tratamento."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum mensalmente até o parto. Após o parto, o seguimento do tratamento é trimestral até o 12º mês de acompanhamento; Correto. Para acompanhamento da melhora e cura do paciente recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum (acompanhamento sorológico com teste VDRL) mensalmente até o parto. Após o parto, o seguimento do tratamento é trimestral até o 12º mês de acompanhamento (3, 6, 9, 12 meses). Se título baixo e estável em duas oportunidades, após um ano, o paciente pode receber alta. b) Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum a cada 3 meses até o parto. Após o parto, o seguimento do tratamento continua trimestral até o 12º mês de acompanhamento; Incorreto. Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum a cada 1 meses até o parto. Após o parto, o seguimento do tratamento continua trimestral até o 12º mês de acompanhamento (3, 6, 9, 12 meses). c) Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum mensalmente até o parto. Após o parto não é necessário o seguimento do tratamento. Incorreto. Recomenda-se realizar exames de sangue para pesquisa de anticorpos contra o Treponema pallidum a cada 1 meses até o parto. Após o parto, o seguimento do tratamento continua trimestral até o 12º mês de acompanhamento (3, 6, 9, 12 meses)."
       },
       {
         "titulo": "Alguns pacientes podem apresentar testes persistentemente reagentes, em baixas dosagens de anticorpos, após o tratamento, é o que chamamos de:",
@@ -265,12 +288,14 @@
           "Cicatriz sorológica;",
           "Rastro sorológico."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) Memória sorológica; Incorreto. O termo correto para casos mencionados no enunciado é Cicatriz Sorológica. b) Cicatriz sorológica; Correto. Esse é o termo correto para situação em que o paciente apresenta testes reagentes persistentemente, em baixas dosagens de anticorpos, após realizarem o tratamento contra sífilis. c) Rastro sorológico. Incorreto. O termo correto para casos mencionados no enunciado é Cicatriz Sorológica."
       },
       {
         "titulo": "O indivíduo pode adquirir sífilis sempre que se expor ao Treponema pallidum (bactéria causadora da sífilis). Essa afirmação é:",
         "opcoes": ["Verdadeira;", "Falsa."],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Verdadeira; Correto. Apesar de ser uma doença tratável e curável, a Sífilis não gera imunidade. Portanto, a pessoa pode se reinfectar caso tenha novamente relações sexuais desprotegidas com pessoa infectada. b) Falso. Incorreto. A afirmação do enunciado é verdadeira. Como a doença não gera imunidade, a pessoa pode se reinfectar caso tenha relações sexuais desprotegidas com pessoa infectada."
       }
     ],
     [
@@ -281,7 +306,8 @@
           "A amamentação não contribui  para o desenvolvimento motor oral e da arcada dentária do bebê;",
           "A amamentação além de ser um ato de nutrir é também uma forma de se construir vínculo entre você e seu filho através do contato com sua pele, seu cheiro e seu aconchego."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) O leite materno ainda tem a vantagem de ser um alimento completo, que contém todos os nutrientes de que o bebê precisa, além de anticorpos que combatem doenças, funcionando como uma vacina natural; Errou! O leite materno é sim um alimento completo para o bebê e através dele a mãe transfere anticorpos do seu sistema imunológico para a criança, o que contribui para a prevenção de várias doenças contagiosas. b) A amamentação não contribui também para o desenvolvimento motor oral e da arcada dentária do bebê. Acertou! A informação contida nesta alternativa é incorreta, pois a amamentação colabora sim para o desenvolvimento dos músculos necessários para o beber sugar e estimula e fortalece a arcada dentária. c) A amamentação além de ser um ato de nutrir é também uma forma de se construir vínculo entre você e seu filho através do contato com sua pele, seu cheiro e seu aconchego. Errou! A informação apresentada nessa alternativa é correta. A amamentação além de nutrir o bebê contribui para estreitar os laços entre a mãe e o bebê e fortalecer o vínculo dos dois."
       },
       {
         "titulo": "Por que o aleitamento materno é importante para a mulher?",
@@ -290,7 +316,8 @@
           "Protege a mulher contra alguns tipos de câncer, como o de mama e o de ovário;",
           "A amamentação não protege a mulher contra a osteoporose."
         ],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": "a) Dar o peito não ajuda a mãe emagrecer; Incorreto. A amamentação acelera a perda de peso da mulher. b)  Proteger você contra alguns tipos de câncer, como o de mama e o de ovário; Correto. A amamentação Reduz a incidência de câncer de mama, ovário e endométrio na mulher. c) A amamentação não protege a mulher contra a osteoporose. Incorreto. O ato de amamentar evita a osteoporose."
       },
       {
         "titulo": "De acordo com a organização Mundial da Saúde (OMS) e o Ministério da Saúde é recomendado:",
@@ -299,7 +326,8 @@
           "Amamentação exclusiva até os 4 meses de vida e a manutenção do leite materno na alimentação da criança até 2 anos de idade ou mais;",
           "Amamentação exclusiva até os 3 meses de vida."
         ],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Amamentação deve ser exclusiva até os 6 meses de vida e a manutenção do leite materno na alimentação da criança até 2 anos de idade ou mais; Correta. A Organização Mundial da Saúde (OMS) e Ministério da Saúde recomendam que os bebês sejam alimentados exclusivamente com leite materno até os 6 meses de idade e que, mesmo após a introdução dos primeiros alimentos sólidos, sigam sendo amamentados até, pelo menos, os 2 anos de idade. b) Amamentação exclusiva até os 4 meses de vida e a manutenção do leite materno na alimentação da criança até 2 anos de idade ou mais; Incorreto. A Organização Mundial da Saúde (OMS) e Ministério da Saúde recomendam que os bebês sejam alimentados exclusivamente com leite materno até os 6 meses de idade e que, mesmo após a introdução dos primeiros alimentos sólidos, sigam sendo amamentados até, pelo menos, os 2 anos de idade. c) Amamentação exclusiva até os 3 meses de vida. Incorreto. A Organização Mundial da Saúde (OMS) e Ministério da Saúde recomendam que os bebês sejam alimentados exclusivamente com leite materno até os 6 meses de idade e que, mesmo após a introdução dos primeiros alimentos sólidos, sigam sendo amamentados até, pelo menos, os 2 anos de idade."
       },
       {
         "titulo": "Qual das alternativas abaixo  é incorreta em relação às recomendações da boa pega do recém-nascido ao seio materno?",
@@ -308,17 +336,20 @@
           "Quando o bebê pega o peito direitinho, o bebê não emite ruído ao mamar e a mãe não sente dor;",
           "Os bicos artificiais como chupetas, mamadeira não atrapalham o processo de amamentação"
         ],
-        "resposta": 2
+        "resposta": 2,
+        "feedback": "a) Quando o bebê pega corretamente a mama fica com boca  bem aberta ( boca de peixinho), com os lábios virados para fora, bochechas arredondadas, queixo encostando no peito e nariz livre. Errou. Essa afirmação está correta. b) Quando o bebê pega o peito direitinho, o bebê não emite ruído ao mamar e a mãe não sente dor. Errou. Essa afirmação está correta. c) Os bicos artificiais como chupetas, mamadeira não atrapalham o processo de amamentação. Acertou. Essa afirmação está incorreta, pois o uso de bicos artificiais gera confusão na forma de sugar e pode dificultar a pega no mamilo, diminuindo a busca pelo seio materno, a estimulação do mamilo e consequentemente a produção de leite."
       },
       {
         "titulo": "Julgue a afirmação à seguir em verdadeiro ou falso: “ O trabalho de parto é caracterizado por contrações de um minuto, a cada cinco minutos; perda de líquido amniótico e eliminação do tampão mucoso.”",
         "opcoes": ["Verdadeira;", "Falsa."],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Verdadeiro Acertou. Essa afirmação é verdadeira. Conforme o trabalho de parto avança, as contrações ficam mais frequentes (2 a 3 contrações em 10 minutos) e duram em torno de 60 segundos.  Além disso, ocorre a perda de água pela vagina que indica a perda de líquido amniótico e a perda de um tampão mucoso (substância mucosa com alguns filetes de sangue) pela vagina. b) Falso Errou. Essa afirmação é verdadeira."
       },
       {
         "titulo": "Julgue a afirmação à seguir em verdadeiro ou falso: “Mesmo tendo realizado testes rápidos para HIV e Sífilis durante o pré-natal,  a gestante deve realizar novamente os testes rápidos na maternidade”.",
         "opcoes": ["Verdadeira;", "Falsa."],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": "a) Verdadeiro; Acertou. Essa afirmação é verdadeira. Toda mulher admitida para parto ou curetagem por abortamento, bem como toda gestante hospitalizada por qualquer intercorrência durante a gravidez, deve realizar Teste de triagem para diagnóstico precoce da Sífilis e iniciar imediatamente o tratamento da puérpera e seu parceiro. b) Falso Errou. Essa afirmação é verdadeira."
       }
     ],
     [
@@ -326,13 +357,15 @@
         "titulo": "Qual palavra abaixo corresponde a essa imagem?",
         "imagem": "../imgs/image_7.png",
         "opcoes": ["Pré-natal", "Preventivo", "Trabalho de parto"],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": ""
       },
       {
         "titulo": "Qual palavra abaixo corresponde a essa imagem?",
         "imagem": "../imgs/image_8.png",
         "opcoes": ["Teste rápido", "Vacinação", "Coleta de sangue"],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": ""
       },
       {
         "titulo": "Qual palavra abaixo corresponde a essa imagem?",
@@ -342,13 +375,15 @@
           "Alimento rico em vitamina C",
           "Alimento rico em Ferro"
         ],
-        "resposta": 2
+        "resposta": 2,
+        "feedback": ""
       },
       {
         "titulo": "Qual palavra abaixo corresponde a essa imagem?",
         "imagem": "../imgs/image_10.png",
         "opcoes": ["Raio X", "Ultrassom", "Ressonância"],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": ""
       },
       {
         "titulo": "Qual palavra abaixo corresponde a essa imagem?",
@@ -358,50 +393,59 @@
           "Dispositivo Intra- Uterino (DIU)",
           "Preservativo"
         ],
-        "resposta": 2
+        "resposta": 2,
+        "feedback": ""
       },
       {
         "titulo": "Qual palavra abaixo corresponde a essa imagem?",
         "imagem": "../imgs/image_12.png",
         "opcoes": ["Teste rápido", "Pré-natal", "Vacinação"],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": ""
       }
     ],
     [
       {
         "titulo": "Os testes rápidos de HIV e Sífilis são exames de triagem realizado durante o pré-natal e na maternidade, no momento da admissão para o parto. Consiste em uma furadinha leve no dedo, para a coleta de uma gotinha de sangue e dentro de cerca de no máximo 30 minutos já adianta para o profissional e para a gestante a possibilidade dela ser ou não portadora de HIV ou sífilis.",
         "opcoes": ["Verdadeiro", "Falso"],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": ""
       },
       {
         "titulo": "A vitamina C é um nutriente que evita anemia na gravidez e está presente em alimentos como: carnes vermelhas,  aves e peixes, verduras escuras, leguminosas (como lentilha, grão-de-bico, ervilha e feijões).",
         "opcoes": ["Verdadeiro", "Falso"],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": ""
       },
       {
         "titulo": "A sífilis é uma Infecção Sexualmente Transmissível causada por uma bactéria chamada Treponema pallidum e caracterizada inicialmente por feridas que não doem, não coçam e não ardem, localizadas no pênis, vagina, ânus, ou na pele, língua ou lábio.",
         "opcoes": ["Verdadeiro", "Falso"],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": ""
       },
       {
         "titulo": "O tampão mucoso é um corrimento eliminado pela gestante nos dias que antecedem o parto, anunciando trabalho de parto.",
         "opcoes": ["Verdadeiro", "Falso"],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": ""
       },
       {
         "titulo": "Qual das alternativas abaixo  é incorreta em relação às recomendações da boa pega do recém-nascido ao seio materno?",
         "opcoes": ["Verdadeiro", "Falso"],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": ""
       },
       {
         "titulo": "As contrações ocorrem durante o trabalho de parto, inicialmente a cada 5 minutos e se tornam menos fortes e regulares.",
         "opcoes": ["Verdadeiro", "Falso"],
-        "resposta": 1
+        "resposta": 1,
+        "feedback": ""
       },
       {
         "titulo": "Amamentação é o ato de nutrir o bebê com seu próprio leite e também uma forma de se construir vínculo entre você e seu filho através do contato com sua pele, seu cheiro e seu aconchego.",
         "opcoes": ["Verdadeiro", "Falso"],
-        "resposta": 0
+        "resposta": 0,
+        "feedback": ""
       }
     ]
   ],
