@@ -1,12 +1,58 @@
 let questoes;
 var acertos;
 
-function imprimirQuestoes(index) {
+function imprimirQuestoes(index, next) {
   $.ajax({
     url: "../scripts/db.json",
     dataType: "json",
     type: "GET",
     success: function (_data) {
+      let correct = 0;
+      let wrong = 0;
+
+      $(document).on("click", ".btn-next", function () {
+        $(".game-card").hide();
+        $(".feedback").hide();
+        var next = $(this).data("next");
+        $("#questao_" + next).show();
+        var percent = (next / questoes.length) * 100;
+        $(".progress-bar")
+          .attr("aria-valuenow", percent)
+          .css("width", percent + "%");
+        $(".progress-bar").html(Math.round(percent) + "%");
+      });
+
+      $(document).on("click", ".btn-send", function () {
+        var send = $(this).data("send");
+        const checked = $('input[name="questao_' + send + '"]:checked');
+
+        if (checked.length != 0) {
+          console.log(correct, wrong);
+          var val = checked.val();
+          if (val == questoes[send].resposta) {
+            checked.parent().addClass("form-check-right");
+            correct++;
+          } else {
+            checked.parent().addClass("form-check-wrong");
+            wrong++;
+            const response = $(
+              'input[name="questao_' +
+                send +
+                '"][ value= ' +
+                questoes[send].resposta +
+                "]"
+            );
+            response.parent().addClass("form-check-response");
+          }
+          $('input[name="questao_' + send + '"]').prop("disabled", "true");
+          $("#questao_" + send + " .btn-send").hide();
+          $("#correct").html(` ${correct}`);
+          $("#wrong").html(` ${wrong}`);
+          $("#questao_" + send + " .btn-next").show();
+          $(".feedback").show();
+        }
+      });
+
       $(".title span, title").html(_data.titulos[index]);
 
       questoes = _data.questoes[index];
@@ -90,6 +136,10 @@ function imprimirQuestoes(index) {
                     <h3 class="card-title px-4 text-center">
                     VOCÊ COMPLETOU!
                     </h3>
+                    <div class="px-4">
+                      <p>Acertou: <span id="correct"></span></p>
+                      <p>Errou: <span id="wrong"></span></p>
+                    </div>
                     <h3 class="card-title px-4 text-center card-points">
                     </h3>
                     <div class="d-flex justify-content-end align-items-center px-4">
@@ -99,9 +149,8 @@ function imprimirQuestoes(index) {
           `"   class="btn btn-redo w-auto">
                             Refazer
                         </a>
-                        <a href="./game` +
-          (index + 2) +
-          ".html" +
+                        <a href="./` +
+          next +
           `" class="btn btn-next d-flex align-items-center w-auto">
                             Próximo
                             <i class="bi bi-arrow-right-short"></i>
@@ -114,41 +163,3 @@ function imprimirQuestoes(index) {
     },
   });
 }
-
-$(document).on("click", ".btn-next", function () {
-  $(".game-card").hide();
-  $(".feedback").hide();
-  var next = $(this).data("next");
-  $("#questao_" + next).show();
-  var percent = (next / questoes.length) * 100;
-  $(".progress-bar")
-    .attr("aria-valuenow", percent)
-    .css("width", percent + "%");
-  $(".progress-bar").html(Math.round(percent) + "%");
-});
-
-$(document).on("click", ".btn-send", function () {
-  var send = $(this).data("send");
-  const checked = $('input[name="questao_' + send + '"]:checked');
-
-  if (checked.length != 0) {
-    var val = checked.val();
-    if (val == questoes[send].resposta) {
-      checked.parent().addClass("form-check-right");
-    } else {
-      checked.parent().addClass("form-check-wrong");
-      const response = $(
-        'input[name="questao_' +
-          send +
-          '"][ value= ' +
-          questoes[send].resposta +
-          "]"
-      );
-      response.parent().addClass("form-check-response");
-    }
-    $('input[name="questao_' + send + '"]').prop("disabled", "true");
-    $("#questao_" + send + " .btn-send").hide();
-    $("#questao_" + send + " .btn-next").show();
-    $(".feedback").show();
-  }
-});
