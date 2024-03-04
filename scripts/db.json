@@ -141,8 +141,8 @@
         "titulo": "Qual das alternativas abaixo contém as vacinas que a gestante deve tomar durante a gestação?",
         "opcoes": [
           "Tétano, gripe (Influenza), Hepatite B, Tríplice viral;",
-          "Tétano, gripe (Influenza), Hepatite B e DTPa;",
-          "Tétano, Febre amarela, Hepatite B e DTPa"
+          "Tétano, gripe (Influenza), Hepatite B e DTPa (Difteria, Tétano e Pertussis acelular);",
+          "Tétano, Febre amarela, Hepatite B e DTPa."
         ],
         "resposta": 1,
         "feedback": "a) Tétano, gripe (Influenza), Hepatite B, Tríplice viral; Incorreta. Apesar das vacinas contra Tétano, gripe (Influenza) e  Hepatite B fazerem parte do calendário vacinal da gestante, a vacina Tríplice viral é recomendada no Calendário Vacinal da Criança aos 12 meses (1ª dose)  e aos 15 meses (dose de Reforço), conforme Ministério da Saúde. b) Tétano, gripe (Influenza), Hepatite B e DTPa (Difteria, Tétano e Pertussis acelular); Correta. As vacinas contra Tétano, gripe (Influenza) e  Hepatite B e DTPa fazerem parte do calendário vacinal da gestante, conforme recomendação do Ministério da Saúde. c) Tétano, Febre amarela, Hepatite B e DTPa. Incorreta. Apesar das vacinas contra Tétano, gripe (Influenza) e  Hepatite B fazerem parte do calendário vacinal da gestante, a vacina contra a Febre Amarela  é recomendada no Calendário Vacinal da Criança aos 9 meses de vida (1ª dose)  e aos 4 anos de idade (dose de Reforço), de acordo com o Ministério da Saúde."
@@ -172,7 +172,7 @@
         "opcoes": [
           "Diminui os enjôos e ocorrência de náuseas e vômitos;",
           "Diminui desconfortos físicos, ajuda a manter a autoestima, melhora o sono;",
-          "Promove tônus muscular, força e resistência;"
+          "Promove tônus muscular, força e resistência."
         ],
         "resposta": 0,
         "feedback": "a) Diminui os enjôos e ocorrência de náuseas e vômitos; Acertou. A atividade física não está relacionada diretamente com esses sintomas. Algumas medidas que podem diminuir tais desconfortos são: https://clinicamedicaclimed.com.br/dicas-para-reduzir-os-enjoos-na-gravidez/ b) Diminui desconfortos físicos, ajuda a manter a autoestima, melhora o sono; Errou. Essa alternativa consiste sim em um dos benefícios da realização de atividade física durante a gestação. c) Promove tônus muscular, força e resistência; Errou. Essa alternativa consiste sim em um dos benefícios da realização de atividade física durante a gestação."
@@ -224,7 +224,7 @@
         "opcoes": [
           "Sífilis Congênita precoce;",
           "Sífilis Congênita tardia;",
-          "Sífilis terciária."
+          "Sífilis Terciária."
         ],
         "resposta": 1,
         "feedback": "a) Sífilis Congênita precoce; Incorreto. Diferentes dos sintomas citados, os sinais e sintomas da Sífilis Congênita precoce são: Febre; Fígado aumentado de tamanho; Pele amarelada; Alterações ósseas. b) Sífilis Congênita Tardia; Correto. Os sintomas mencionados no enunciado correspondem aos da Sífilis Congênita Tardia e estão relacionadas à inflamação persistente da infecção precoce. c) Sífilis terciária. Incorreto. A Sífilis Terciária é um dos estágios da sífilis adquirida e não Sífilis Congênita. Nesse estágio a inflamação causa destruição de tecidos ocasionando comprometimento do sistema nervoso e do sistema cardiovascular."
@@ -245,7 +245,7 @@
         "titulo": "Qual das alternativas abaixo é a correta em relação a participação do pai/parceiro durante todo o processo de pré-natal?",
         "opcoes": [
           "A presença do pai/parceiro da gestante no pré-natal não contribui para o bem-estar físico, psicológico, social da mãe, do bebê e dele próprio;",
-          "O pré-natal do Parceiro é uma oportunidade para o pai realizar exames de rotina e testes rápidos, vacinação, além de ser uma oportunidade para participarem das atividades educativas para uma paternidade consciente;",
+          "O pré-natal do parceiro é uma oportunidade para o pai realizar exames de rotina e testes rápidos, vacinação, além de ser uma oportunidade para participarem das atividades educativas para uma paternidade consciente;",
           "Não é permitida a presença do pai/parceiro da gestante nas consultas de pré-natal."
         ],
         "resposta": 1,
